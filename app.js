@@ -2,8 +2,13 @@ const HISTORIAS_BASE = "./data/historias";
 
 // Formato: [title, archivo]
 const HISTORIAS = [
-  ["Ein kurzer Anruf im Büro", "historia-01.json"]
+  ["Ein kurzer Anruf im Büro", "historia-01.json"],
+  ["Eine intensive Woche zwischen Büro, Einkäufen und Terminen","historia-02.json"],
+   ["Samstag auf dem Wochenmarkt","historia-03.json"],
+   ["Eine intensive Woche","historia-04.json"]
 ];
+
+const PARRAFOS_POR_PAGINA = 4;
 
 const els = {
   headerTitle: document.getElementById("header-title"),
@@ -13,6 +18,10 @@ const els = {
   listaHistorias: document.getElementById("lista-historias"),
   vistaLectura: document.getElementById("vista-lectura"),
   contenidoHistoria: document.getElementById("contenido-historia"),
+  paginacion: document.getElementById("paginacion"),
+  btnPrevPage: document.getElementById("btn-prev-page"),
+  btnNextPage: document.getElementById("btn-next-page"),
+  pageIndicator: document.getElementById("page-indicator"),
   sheet: document.getElementById("bottom-sheet"),
   sheetWord: document.getElementById("sheet-word"),
   sheetBase: document.getElementById("sheet-base"),
@@ -21,6 +30,9 @@ const els = {
   sheetClose: document.getElementById("sheet-close")
 };
 
+let historiaActual = null;
+let paginaActual = 0;
+let totalPaginas = 1;
 let mostrarFrasesES = false;
 let palabraActiva = null;
 
@@ -69,8 +81,13 @@ async function abrirHistoria(title, archivo) {
     }
     const data = await res.json();
 
+    historiaActual = data;
+    const parrafos = data.parrafos || [];
+    totalPaginas = Math.max(1, Math.ceil(parrafos.length / PARRAFOS_POR_PAGINA));
+    paginaActual = 0;
+
     els.headerTitle.textContent = data.titulo || title;
-    renderHistoria(data);
+    renderPagina();
 
     els.vistaLista.classList.add("hidden");
     els.vistaLectura.classList.remove("hidden");
@@ -82,14 +99,21 @@ async function abrirHistoria(title, archivo) {
   }
 }
 
-function renderHistoria(data) {
+function renderPagina() {
+  if (!historiaActual) return;
+  cerrarSheet();
+
+  const parrafos = historiaActual.parrafos || [];
+  const inicio = paginaActual * PARRAFOS_POR_PAGINA;
+  const fin = inicio + PARRAFOS_POR_PAGINA;
+  const parrafosPagina = parrafos.slice(inicio, fin);
+
   els.contenidoHistoria.innerHTML = "";
 
-  (data.parrafos || []).forEach((parrafo) => {
+  parrafosPagina.forEach((parrafo) => {
     const p = document.createElement("p");
     p.className = "paragraph";
 
-    // Divide el texto alemán automáticamente por espacios en botones táctiles
     const palabras = (parrafo.de || "").trim().split(/\s+/);
 
     palabras.forEach((palabraTexto) => {
@@ -100,7 +124,7 @@ function renderHistoria(data) {
       btn.textContent = palabraTexto;
       btn.addEventListener("click", (e) => {
         e.stopPropagation();
-        mostrarTraduccion(btn, palabraTexto, parrafo.es, data.vocabulario);
+        mostrarTraduccion(btn, palabraTexto, parrafo.es, historiaActual.vocabulario);
       });
       p.appendChild(btn);
       p.appendChild(document.createTextNode(" "));
@@ -108,13 +132,28 @@ function renderHistoria(data) {
 
     if (parrafo.es) {
       const spanES = document.createElement("span");
-      spanES.className = "sentence-es hidden";
+      spanES.className = mostrarFrasesES ? "sentence-es" : "sentence-es hidden";
       spanES.textContent = parrafo.es;
       p.appendChild(spanES);
     }
 
     els.contenidoHistoria.appendChild(p);
   });
+
+  actualizarControlesPaginacion();
+}
+
+function actualizarControlesPaginacion() {
+  els.pageIndicator.textContent = `Página ${paginaActual + 1} / ${totalPaginas}`;
+  els.btnPrevPage.disabled = paginaActual <= 0;
+  els.btnNextPage.disabled = paginaActual >= totalPaginas - 1;
+}
+
+function irAPagina(nuevaPagina) {
+  if (!historiaActual) return;
+  if (nuevaPagina < 0 || nuevaPagina >= totalPaginas) return;
+  paginaActual = nuevaPagina;
+  renderPagina();
 }
 
 function mostrarTraduccion(btn, palabraTexto, traduccionCompleta, vocabularioLocal) {
@@ -150,8 +189,18 @@ function cerrarSheet() {
   }
 }
 
+els.btnPrevPage.addEventListener("click", () => irAPagina(paginaActual - 1));
+els.btnNextPage.addEventListener("click", () => irAPagina(paginaActual + 1));
+
+document.addEventListener("keydown", (e) => {
+  if (els.vistaLectura.classList.contains("hidden")) return;
+  if (e.key === "ArrowLeft") irAPagina(paginaActual - 1);
+  if (e.key === "ArrowRight") irAPagina(paginaActual + 1);
+});
+
 els.btnBack.addEventListener("click", () => {
   cerrarSheet();
+  historiaActual = null;
   els.vistaLectura.classList.add("hidden");
   els.btnBack.classList.add("hidden");
   els.btnToggleTrad.classList.add("hidden");

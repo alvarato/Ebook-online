@@ -1,0 +1,371 @@
+{
+  "titulo": "Samstag auf dem Wochenmarkt",
+  "vocabulario": {
+    "am": ["an + dem", "el / en el (sábado, puesto…)", "al (superlativo: am besten)"],
+    "samstag": ["der Samstag", "sábado"],
+    "will": ["wollen", "quiere", "desea"],
+    "lara": ["Lara", "Lara (nombre propio)"],
+    "auf": ["auf", "en", "sobre"],
+    "den": ["der/die/das (Akkusativ maskulin)", "el (acusativo)"],
+    "markt": ["der Markt", "mercado"],
+    "gehen": ["gehen", "ir", "caminar"],
+    "sie": ["sie", "ella", "ellos / usted (Sie)"],
+    "ist": ["sein", "es", "está"],
+    "früh": ["früh", "temprano"],
+    "aufgestanden": ["aufstehen", "levantado", "se ha levantado"],
+    "und": ["und", "y"],
+    "hat": ["haben", "tiene", "ha (auxiliar del Perfekt)"],
+    "nur": ["nur", "solo", "solamente"],
+    "einen": ["ein (Akkusativ maskulin)", "un"],
+    "tee": ["der Tee", "té"],
+    "getrunken": ["trinken", "bebido"],
+    "zuerst": ["zuerst", "primero", "al principio"],
+    "schreibt": ["schreiben", "escribe"],
+    "eine": ["ein/eine", "una"],
+    "liste": ["die Liste", "lista"],
+    "weil": ["weil", "porque"],
+    "nicht": ["nicht", "no"],
+    "alles": ["alles", "todo"],
+    "vergessen": ["vergessen", "olvidar"],
+    "möchte": ["mögen (möchten)", "quiere", "querría"],
+    "braucht": ["brauchen", "necesita"],
+    "obst": ["das Obst", "fruta"],
+    "gemüse": ["das Gemüse", "verdura", "hortalizas"],
+    "käse": ["der Käse", "queso"],
+    "brot": ["das Brot", "pan", "hogaza"],
+    "um": ["um", "a (hora)", "alrededor de"],
+    "acht": ["acht", "ocho"],
+    "uhr": ["die Uhr", "hora, en punto", "reloj"],
+    "fährt": ["fahren", "va (en vehículo)", "conduce"],
+    "mit": ["mit", "con", "en (medio de transporte)"],
+    "dem": ["der/das (Dativ)", "el (dativo)"],
+    "bus": ["der Bus", "autobús"],
+    "zum": ["zu + dem", "al / hacia el", "para el"],
+    "marktplatz": ["der Marktplatz", "plaza del mercado"],
+    "der": ["der", "el", "de la (dativo/genitivo)"],
+    "voll": ["voll", "lleno"],
+    "aber": ["aber", "pero"],
+    "er": ["er", "él", "ello (para cosas masculinas)"],
+    "schneller": ["schnell -> schneller", "más rápido"],
+    "als": ["als", "que (comparación)", "cuando (pasado)"],
+    "die": ["der/die/das", "la", "los / las"],
+    "straßenbahn": ["die Straßenbahn", "tranvía"],
+    "gibt": ["geben", "da", "hay (es gibt)"],
+    "es": ["es", "ello", "lo / eso"],
+    "viele": ["viel -> viele", "muchos", "muchas"],
+    "stände": ["der Stand", "puestos", "stands"],
+    "luft": ["die Luft", "aire"],
+    "riecht": ["riechen", "huele"],
+    "nach": ["nach", "a (hacia)", "después de / a (olor a)"],
+    "frischem": ["frisch", "fresco (dativo)"],
+    "blumen": ["die Blume", "flores"],
+    "geht": ["gehen", "va", "camina"],
+    "gemüsestand": ["der Gemüsestand", "puesto de verduras"],
+    "verkäufer": ["der Verkäufer", "vendedor"],
+    "sagt": ["sagen", "dice"],
+    "guten": ["gut", "buen / buenos"],
+    "morgen": ["der Morgen / morgen", "mañana (día siguiente)", "mañana (por la mañana)"],
+    "was": ["was", "qué", "lo que"],
+    "darf": ["dürfen", "puede", "se puede / desea (¿Was darf es sein?)"],
+    "sein": ["sein", "ser", "estar"],
+    "ich": ["ich", "yo"],
+    "ein": ["ein/eine", "un", "(parte separable de einpacken: packt … ein)"],
+    "kilo": ["das Kilo", "kilo"],
+    "tomaten": ["die Tomate", "tomates"],
+    "bitte": ["bitte", "por favor", "de nada"],
+    "wie": ["wie", "cómo", "como (comparación)"],
+    "viel": ["viel", "mucho", "cuánto (wie viel)"],
+    "kosten": ["kosten", "costar", "cuestan"],
+    "drei": ["drei", "tres"],
+    "euro": ["der Euro", "euro"],
+    "das": ["der/die/das", "el (neutro)", "eso / esto"],
+    "antwortet": ["antworten", "responde", "contesta"],
+    "heute": ["heute", "hoy"],
+    "ganz": ["ganz", "muy, bastante", "entero"],
+    "frisch": ["frisch", "fresco", "recién hecho"],
+    "schaut": ["schauen (anschauen)", "mira"],
+    "an": ["an", "(parte separable de anschauen: schaut … an)", "en / junto a"],
+    "auch": ["auch", "también"],
+    "gurken": ["die Gurke", "pepinos"],
+    "sind": ["sein", "son", "están"],
+    "günstiger": ["günstig -> günstiger", "más barato"],
+    "fragt": ["fragen", "pregunta"],
+    "ja": ["ja", "sí"],
+    "kostet": ["kosten", "cuesta"],
+    "zwei": ["zwei", "dos"],
+    "genauso": ["genauso", "igual de", "exactamente igual"],
+    "nimmt": ["nehmen", "toma", "se lleva"],
+    "paprika": ["die Paprika", "pimiento"],
+    "bezahlt": ["bezahlen", "paga"],
+    "bar": ["bar", "en efectivo"],
+    "wechselgeld": ["das Wechselgeld", "cambio (dinero)", "vuelta"],
+    "ihr": ["ihr", "su (de ella)", "a ella (dativo)"],
+    "danach": ["danach", "después", "luego"],
+    "obststand": ["der Obststand", "puesto de fruta"],
+    "dort": ["dort", "allí"],
+    "kauft": ["kaufen", "compra"],
+    "äpfel": ["der Apfel", "manzanas"],
+    "bananen": ["die Banane", "plátanos", "bananas"],
+    "probiert": ["probieren", "prueba", "degusta"],
+    "apfel": ["der Apfel", "manzana"],
+    "schmeckt": ["schmecken", "sabe (bien)", "gusta (comida)"],
+    "besten": ["gut -> besser -> am besten", "mejor (superlativo)"],
+    "größer": ["groß -> größer", "más grande"],
+    "süßer": ["süß -> süßer", "más dulce"],
+    "plötzlich": ["plötzlich", "de repente"],
+    "klingelt": ["klingeln", "suena", "timbra"],
+    "handy": ["das Handy", "móvil", "celular"],
+    "ihre": ["ihr", "su (de ella)", "sus"],
+    "kollegin": ["die Kollegin", "compañera de trabajo"],
+    "anna": ["Anna", "Anna (nombre propio)"],
+    "hallo": ["hallo", "hola"],
+    "wo": ["wo", "dónde"],
+    "bist": ["sein", "eres", "estás"],
+    "du": ["du", "tú"],
+    "gerade": ["gerade", "ahora mismo", "justo"],
+    "bin": ["sein", "soy", "estoy"],
+    "kannst": ["können", "puedes"],
+    "für": ["für", "para", "por"],
+    "büro": ["das Büro", "oficina"],
+    "mitbringen": ["mitbringen", "traer", "llevar consigo"],
+    "wir": ["wir", "nosotros"],
+    "haben": ["haben", "tener", "tenemos"],
+    "nächste": ["nächst", "próxima", "siguiente"],
+    "woche": ["die Woche", "semana"],
+    "treffen": ["das Treffen", "reunión", "encuentro"],
+    "klar": ["klar", "claro", "claro que sí"],
+    "kein": ["kein", "ningún", "no (delante de sustantivo)"],
+    "problem": ["das Problem", "problema"],
+    "schon": ["schon", "ya", "de hecho"],
+    "meiner": ["mein", "mi (dativo femenino)"],
+    "käsestand": ["der Käsestand", "puesto de quesos"],
+    "schlange": ["die Schlange", "fila, cola", "serpiente"],
+    "lang": ["lang", "largo"],
+    "muss": ["müssen", "tiene que", "debe"],
+    "zehn": ["zehn", "diez"],
+    "minuten": ["die Minute", "minutos"],
+    "warten": ["warten", "esperar"],
+    "obwohl": ["obwohl", "aunque", "a pesar de que"],
+    "wenig": ["wenig", "poco"],
+    "zeit": ["die Zeit", "tiempo"],
+    "endlich": ["endlich", "por fin", "al fin"],
+    "dran": ["dran (sein)", "es su turno", "le toca"],
+    "welchen": ["welcher", "qué", "cuál"],
+    "empfehlen": ["empfehlen", "recomendar"],
+    "dieser": ["dieser", "este"],
+    "sehr": ["sehr", "muy"],
+    "beliebt": ["beliebt", "popular", "querido"],
+    "verkäuferin": ["die Verkäuferin", "vendedora"],
+    "teurer": ["teuer -> teurer", "más caro"],
+    "besser": ["gut -> besser", "mejor"],
+    "stück": ["das Stück", "trozo", "pieza"],
+    "wirklich": ["wirklich", "realmente", "de verdad"],
+    "gut": ["gut", "bueno", "bien"],
+    "deshalb": ["deshalb", "por eso"],
+    "nehme": ["nehmen", "tomo", "me llevo"],
+    "vierhundert": ["vierhundert", "cuatrocientos"],
+    "gramm": ["das Gramm", "gramos"],
+    "packt": ["packen (einpacken)", "empaqueta", "envuelve"],
+    "macht": ["machen", "hace", "son (precio)"],
+    "fünfzig": ["fünfzig", "cincuenta"],
+    "karte": ["die Karte", "tarjeta", "mapa / carta"],
+    "zahlen": ["zahlen", "pagar"],
+    "gerät": ["das Gerät", "aparato", "dispositivo"],
+    "funktioniert": ["funktionieren", "funciona"],
+    "glück": ["das Glück", "suerte", "felicidad"],
+    "bargeld": ["das Bargeld", "dinero en efectivo"],
+    "noch": ["noch", "todavía", "aún"],
+    "tasche": ["die Tasche", "bolsa", "bolso"],
+    "in": ["in", "en", "dentro de"],
+    "beim": ["bei + dem", "en el / en casa del", "en la panadería (beim Bäcker)"],
+    "bäcker": ["der Bäcker", "panadero", "panadería"],
+    "sechs": ["sechs", "seis"],
+    "brötchen": ["das Brötchen", "panecillos"],
+    "warm": ["warm", "caliente", "tibio"],
+    "möchten": ["mögen (möchten)", "quieren", "querría (usted)"],
+    "tüte": ["die Tüte", "bolsa (de papel o plástico)"],
+    "nein": ["nein", "no"],
+    "danke": ["danke", "gracias"],
+    "habe": ["haben", "tengo"],
+    "mehr": ["viel -> mehr", "más"],
+    "gekauft": ["kaufen", "comprado"],
+    "steht": ["stehen", "está (escrito)", "está de pie"],
+    "ihrer": ["ihr", "su (de ella, dativo)", "de ella"],
+    "schwer": ["schwer", "pesado", "difícil"],
+    "blumenstand": ["der Blumenstand", "puesto de flores"],
+    "sieht": ["sehen", "ve"],
+    "rote": ["rot", "rojas"],
+    "rosen": ["die Rose", "rosas"],
+    "schön": ["schön", "bonito", "hermoso"],
+    "trotzdem": ["trotzdem", "a pesar de eso", "sin embargo"],
+    "kleinen": ["klein", "pequeño"],
+    "strauß": ["der Strauß", "ramo"],
+    "hofft": ["hoffen", "espera", "tiene esperanza"],
+    "dass": ["dass", "que (conjunción)"],
+    "gefallen": ["gefallen", "gustar", "agradar"],
+    "mutter": ["die Mutter", "madre"],
+    "geburtstag": ["der Geburtstag", "cumpleaños"],
+    "wenn": ["wenn", "si", "cuando"],
+    "zu": ["zu", "a", "hacia / en casa de"],
+    "wird": ["werden", "va a (futuro)", "se convierte en"],
+    "ihn": ["er", "lo (acusativo masculino)"],
+    "elf": ["elf", "once"],
+    "müde": ["müde", "cansado"],
+    "glücklich": ["glücklich", "feliz", "contento"],
+    "ausgegeben": ["ausgeben", "gastado"],
+    "weniger": ["wenig -> weniger", "menos"],
+    "geld": ["das Geld", "dinero"],
+    "supermarkt": ["der Supermarkt", "supermercado"],
+    "im": ["in + dem", "en el"],
+    "hause": ["das Haus (zu Hause)", "casa (en casa)"],
+    "legt": ["legen", "pone", "coloca"],
+    "tisch": ["der Tisch", "mesa"],
+    "kaffee": ["der Kaffee", "café"],
+    "suppe": ["die Suppe", "sopa"],
+    "kochen": ["kochen", "cocinar"],
+    "wieder": ["wieder", "otra vez", "de nuevo"],
+    "montag": ["der Montag", "lunes"],
+    "bestimmt": ["bestimmt", "seguro", "seguramente"],
+    "kollegen": ["der Kollege", "compañeros de trabajo"],
+    "lecker": ["lecker", "rico", "delicioso"],
+    "finden": ["finden", "encontrar", "opinar / considerar"]
+  },
+  "parrafos": [
+    {
+      "de": "Am Samstag will Lara auf den Markt gehen. Sie ist früh aufgestanden und hat nur einen Tee getrunken.",
+      "es": "El sábado Lara quiere ir al mercado. Se ha levantado temprano y solo ha tomado un té."
+    },
+    {
+      "de": "Zuerst schreibt sie eine Liste, weil sie nicht alles vergessen möchte. Sie braucht Obst, Gemüse, Käse und Brot.",
+      "es": "Primero escribe una lista porque no quiere olvidar nada. Necesita fruta, verdura, queso y pan."
+    },
+    {
+      "de": "Um acht Uhr fährt sie mit dem Bus zum Marktplatz. Der Bus ist voll, aber er ist schneller als die Straßenbahn.",
+      "es": "A las ocho va en autobús a la plaza del mercado. El autobús va lleno, pero es más rápido que el tranvía."
+    },
+    {
+      "de": "Auf dem Markt gibt es viele Stände. Die Luft riecht nach frischem Brot und Blumen.",
+      "es": "En el mercado hay muchos puestos. El aire huele a pan fresco y a flores."
+    },
+    {
+      "de": "Zuerst geht Lara zum Gemüsestand. Der Verkäufer sagt: „Guten Morgen! Was darf es sein?“",
+      "es": "Primero Lara va al puesto de verduras. El vendedor dice: «¡Buenos días! ¿Qué desea?»"
+    },
+    {
+      "de": "„Ich möchte ein Kilo Tomaten, bitte“, sagt Lara. „Wie viel kosten sie?“",
+      "es": "«Quiero un kilo de tomates, por favor», dice Lara. «¿Cuánto cuestan?»"
+    },
+    {
+      "de": "„Drei Euro das Kilo“, antwortet der Verkäufer. „Sie sind heute ganz frisch.“",
+      "es": "«Tres euros el kilo», responde el vendedor. «Hoy están muy frescos.»"
+    },
+    {
+      "de": "Lara schaut auch die Gurken an. „Sind die Gurken günstiger als die Tomaten?“, fragt sie.",
+      "es": "Lara también mira los pepinos. «¿Son los pepinos más baratos que los tomates?», pregunta."
+    },
+    {
+      "de": "„Ja, ein Kilo kostet nur zwei Euro“, sagt der Verkäufer. „Sie sind genauso frisch wie die Tomaten.“",
+      "es": "«Sí, un kilo cuesta solo dos euros», dice el vendedor. «Están igual de frescos que los tomates.»"
+    },
+    {
+      "de": "Lara nimmt zwei Gurken und drei Paprika. Sie bezahlt bar, und der Verkäufer gibt ihr das Wechselgeld.",
+      "es": "Lara se lleva dos pepinos y tres pimientos. Paga en efectivo y el vendedor le da el cambio."
+    },
+    {
+      "de": "Danach geht sie zum Obststand. Dort kauft sie Äpfel und Bananen.",
+      "es": "Después va al puesto de fruta. Allí compra manzanas y plátanos."
+    },
+    {
+      "de": "Lara probiert einen Apfel. „Der schmeckt am besten!“, sagt sie.",
+      "es": "Lara prueba una manzana. «¡Esta sabe mejor que ninguna!», dice."
+    },
+    {
+      "de": "Die Äpfel sind größer als die Bananen, aber die Bananen sind süßer.",
+      "es": "Las manzanas son más grandes que los plátanos, pero los plátanos son más dulces."
+    },
+    {
+      "de": "Plötzlich klingelt ihr Handy. Es ist ihre Kollegin Anna.",
+      "es": "De repente suena su móvil. Es su compañera Anna."
+    },
+    {
+      "de": "„Hallo Lara, wo bist du gerade?“, fragt Anna. „Ich bin auf dem Markt“, antwortet Lara.",
+      "es": "«Hola Lara, ¿dónde estás ahora mismo?», pregunta Anna. «Estoy en el mercado», responde Lara."
+    },
+    {
+      "de": "„Kannst du bitte Käse für das Büro mitbringen? Wir haben nächste Woche ein Treffen.“",
+      "es": "«¿Puedes traer queso para la oficina, por favor? La semana que viene tenemos una reunión.»"
+    },
+    {
+      "de": "„Klar, kein Problem“, sagt Lara. „Ich habe schon Käse auf meiner Liste.“",
+      "es": "«Claro, ningún problema», dice Lara. «Ya tengo queso en mi lista.»"
+    },
+    {
+      "de": "Am Käsestand ist die Schlange lang. Lara muss zehn Minuten warten, obwohl sie wenig Zeit hat.",
+      "es": "En el puesto de quesos la cola es larga. Lara tiene que esperar diez minutos, aunque tiene poco tiempo."
+    },
+    {
+      "de": "Endlich ist sie dran. „Welchen Käse empfehlen Sie?“, fragt sie.",
+      "es": "Por fin le toca. «¿Qué queso me recomienda?», pregunta."
+    },
+    {
+      "de": "„Dieser Käse ist sehr beliebt“, sagt die Verkäuferin. „Er ist teurer, aber er schmeckt besser.“",
+      "es": "«Este queso es muy popular», dice la vendedora. «Es más caro, pero sabe mejor.»"
+    },
+    {
+      "de": "Lara probiert ein Stück. „Er ist wirklich gut, deshalb nehme ich vierhundert Gramm“, sagt sie.",
+      "es": "Lara prueba un trozo. «Está realmente bueno, por eso me llevo cuatrocientos gramos», dice."
+    },
+    {
+      "de": "Die Verkäuferin packt den Käse ein. „Das macht acht Euro fünfzig“, sagt sie.",
+      "es": "La vendedora envuelve el queso. «Son ocho euros con cincuenta», dice."
+    },
+    {
+      "de": "Lara will mit der Karte zahlen, aber das Gerät funktioniert nicht. Zum Glück hat sie noch Bargeld in der Tasche.",
+      "es": "Lara quiere pagar con tarjeta, pero el aparato no funciona. Por suerte todavía tiene dinero en efectivo en el bolso."
+    },
+    {
+      "de": "Beim Bäcker kauft sie ein Brot und sechs Brötchen. Das Brot ist noch warm.",
+      "es": "En la panadería compra un pan y seis panecillos. El pan todavía está caliente."
+    },
+    {
+      "de": "Der Bäcker fragt: „Möchten Sie eine Tüte?“",
+      "es": "El panadero pregunta: «¿Quiere una bolsa?»"
+    },
+    {
+      "de": "„Nein, danke, ich habe eine Tasche“, antwortet Lara.",
+      "es": "«No, gracias, tengo una bolsa», responde Lara."
+    },
+    {
+      "de": "Lara hat heute mehr Gemüse gekauft, als auf ihrer Liste steht. Ihre Tasche ist schon schwer.",
+      "es": "Hoy Lara ha comprado más verdura de la que hay en su lista. Su bolsa ya pesa mucho."
+    },
+    {
+      "de": "Am Blumenstand sieht Lara rote Rosen. Sie sind schön, aber sie sind teurer als das Gemüse.",
+      "es": "En el puesto de flores Lara ve rosas rojas. Son bonitas, pero son más caras que la verdura."
+    },
+    {
+      "de": "Lara kauft trotzdem einen kleinen Strauß. Sie hofft, dass die Blumen ihrer Mutter gefallen.",
+      "es": "Lara compra igualmente un ramo pequeño. Espera que a su madre le gusten las flores."
+    },
+    {
+      "de": "Die Mutter hat morgen Geburtstag. Wenn Lara zu ihr fährt, wird sie die Blumen mitnehmen.",
+      "es": "Mañana es el cumpleaños de su madre. Cuando Lara vaya a verla, se llevará las flores."
+    },
+    {
+      "de": "Um elf Uhr ist Lara müde, aber glücklich. Auf dem Markt hat sie weniger Geld ausgegeben als im Supermarkt.",
+      "es": "A las once Lara está cansada, pero contenta. En el mercado ha gastado menos dinero que en el supermercado."
+    },
+    {
+      "de": "Sie fährt mit dem Bus nach Hause. Zu Hause legt sie alles auf den Tisch und macht einen Kaffee.",
+      "es": "Vuelve a casa en autobús. En casa lo pone todo sobre la mesa y prepara un café."
+    },
+    {
+      "de": "Morgen wird sie eine Suppe kochen. Nächste Woche wird sie wieder auf den Markt gehen.",
+      "es": "Mañana va a cocinar una sopa. La semana que viene volverá a ir al mercado."
+    },
+    {
+      "de": "Am Montag gibt sie Anna den Käse im Büro. Die Kollegen werden ihn bestimmt lecker finden.",
+      "es": "El lunes le da el queso a Anna en la oficina. A los compañeros seguro que les parecerá rico."
+    }
+  ]
+}

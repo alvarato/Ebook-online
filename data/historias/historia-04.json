@@ -1,0 +1,446 @@
+{
+  "titulo": "Eine intensive Woche",
+  "vocabulario": {
+    "am": ["an + dem", "el (día de la semana)", "al / en el (am Anfang, am Ende)"],
+    "montag": ["der Montag", "lunes"],
+    "beginnt": ["beginnen", "empieza", "comienza"],
+    "für": ["für", "para", "por"],
+    "daniel": ["Daniel", "Daniel (nombre propio)"],
+    "eine": ["ein/eine", "una"],
+    "intensive": ["intensiv", "intensa"],
+    "woche": ["die Woche", "semana"],
+    "er": ["er", "él"],
+    "hat": ["haben", "tiene", "ha (auxiliar del Perfekt)"],
+    "viele": ["viel -> viele", "muchos", "muchas"],
+    "termine": ["der Termin", "citas", "compromisos"],
+    "im": ["in + dem", "en el"],
+    "büro": ["das Büro", "oficina"],
+    "und": ["und", "y"],
+    "muss": ["müssen", "tiene que", "debe"],
+    "auch": ["auch", "también"],
+    "einige": ["einige", "algunas", "unos cuantos"],
+    "dinge": ["das Ding", "cosas"],
+    "erledigen": ["erledigen", "resolver", "hacer (tareas, gestiones)"],
+    "zuerst": ["zuerst", "primero", "al principio"],
+    "schreibt": ["schreiben", "escribe"],
+    "einen": ["ein (Akkusativ maskulin)", "un"],
+    "plan": ["der Plan", "plan"],
+    "weil": ["weil", "porque"],
+    "nichts": ["nichts", "nada"],
+    "vergessen": ["vergessen", "olvidar"],
+    "will": ["wollen", "quiere"],
+    "dienstag": ["der Dienstag", "martes"],
+    "besprechung": ["die Besprechung", "reunión"],
+    "mittwoch": ["der Mittwoch", "miércoles"],
+    "geht": ["gehen", "va", "camina"],
+    "zur": ["zu + der", "a la", "hacia la"],
+    "bank": ["die Bank", "banco", "banco (para sentarse)"],
+    "freitag": ["der Freitag", "viernes"],
+    "zum": ["zu + dem", "al", "hacia el"],
+    "amt": ["das Amt", "oficina pública", "ayuntamiento / administración"],
+    "um": ["um", "a (hora)", "alrededor de / por"],
+    "halb": ["halb", "medio, media", "y media (halb acht = siete y media)"],
+    "acht": ["acht", "ocho"],
+    "nimmt": ["nehmen", "toma", "coge"],
+    "die": ["der/die/das", "la", "los / las"],
+    "straßenbahn": ["die Straßenbahn", "tranvía"],
+    "sie": ["sie", "ella", "ellos / usted (Sie)"],
+    "ist": ["sein", "es", "está"],
+    "heute": ["heute", "hoy"],
+    "pünktlich": ["pünktlich", "puntual", "a tiempo"],
+    "deshalb": ["deshalb", "por eso"],
+    "kommt": ["kommen", "viene", "llega"],
+    "früh": ["früh", "temprano"],
+    "an": ["an", "(parte separable de ankommen: kommt … an)", "(parte separable de anrufen / anprobieren / anmelden)"],
+    "trifft": ["treffen", "encuentra", "se reúne con"],
+    "seine": ["sein", "su (de él)", "sus"],
+    "kollegin": ["die Kollegin", "compañera de trabajo"],
+    "sabine": ["Sabine", "Sabine (nombre propio)"],
+    "guten": ["gut", "buen / buenos"],
+    "morgen": ["der Morgen / morgen", "mañana (día siguiente)", "mañana (por la mañana)"],
+    "hast": ["haben", "tienes", "has"],
+    "du": ["du", "tú"],
+    "wochenende": ["das Wochenende", "fin de semana"],
+    "gut": ["gut", "bien", "bueno"],
+    "geschlafen": ["schlafen", "dormido", "ha dormido"],
+    "ja": ["ja", "sí"],
+    "danke": ["danke", "gracias"],
+    "aber": ["aber", "pero"],
+    "ich": ["ich", "yo"],
+    "bin": ["sein", "soy", "estoy"],
+    "nervös": ["nervös", "nervioso"],
+    "antwortet": ["antworten", "responde", "contesta"],
+    "werde": ["werden", "voy a (futuro)", "me vuelvo"],
+    "ein": ["ein/eine", "un", "(parte separable de einpacken / einkaufen)"],
+    "projekt": ["das Projekt", "proyecto"],
+    "präsentieren": ["präsentieren", "presentar"],
+    "das": ["der/die/das", "el (neutro)", "eso / esto"],
+    "schaffst": ["schaffen", "consigues", "logras"],
+    "bestimmt": ["bestimmt", "seguro", "seguramente"],
+    "sagt": ["sagen", "dice"],
+    "der": ["der", "el", "de la (dativo/genitivo)"],
+    "chef": ["der Chef", "jefe"],
+    "mag": ["mögen", "le gusta", "quiere"],
+    "klare": ["klar", "clara", "claras"],
+    "präsentationen": ["die Präsentation", "presentaciones"],
+    "mail": ["die Mail", "correo electrónico", "mensaje"],
+    "den": ["der/die/das (Akkusativ maskulin)", "el (acusativo)"],
+    "kunden": ["der Kunde", "cliente"],
+    "bittet": ["bitten (um)", "pide", "solicita"],
+    "termin": ["der Termin", "cita", "reunión programada"],
+    "donnerstag": ["der Donnerstag", "jueves"],
+    "nachmittag": ["der Nachmittag", "tarde (parte del día)"],
+    "ruft": ["rufen (anrufen)", "llama", "grita"],
+    "kunde": ["der Kunde", "cliente"],
+    "tag": ["der Tag", "día", "(Guten Tag = buenos días / buenas tardes)"],
+    "hier": ["hier", "aquí"],
+    "herr": ["der Herr", "señor"],
+    "weber": ["Weber", "Weber (apellido)"],
+    "passt": ["passen", "viene bien", "queda bien / encaja"],
+    "mir": ["ich (Dativ)", "me / a mí"],
+    "leider": ["leider", "lamentablemente", "desgraciadamente"],
+    "nicht": ["nicht", "no"],
+    "können": ["können", "poder", "podemos"],
+    "wir": ["wir", "nosotros"],
+    "uns": ["wir (Akkusativ/Dativ)", "nos", "a nosotros"],
+    "zehn": ["zehn", "diez"],
+    "uhr": ["die Uhr", "hora, en punto", "reloj"],
+    "treffen": ["treffen", "encontrarse", "reunirse"],
+    "fragt": ["fragen", "pregunta"],
+    "besser": ["gut -> besser", "mejor"],
+    "präsentiert": ["präsentieren", "presenta"],
+    "sein": ["sein", "su (de él)", "ser / estar"],
+    "anfang": ["der Anfang", "principio", "comienzo"],
+    "danach": ["danach", "después", "luego"],
+    "spricht": ["sprechen", "habla"],
+    "ruhig": ["ruhig", "tranquilo", "con calma"],
+    "präsentation": ["die Präsentation", "presentación"],
+    "war": ["sein", "fue", "era / estaba"],
+    "als": ["als", "que (comparación)", "cuando (pasado)"],
+    "letztes": ["letzt", "último", "pasado"],
+    "mal": ["das Mal", "vez"],
+    "werden": ["werden", "vamos a (futuro)", "llegar a ser"],
+    "nächsten": ["nächst", "próximo", "siguiente"],
+    "monat": ["der Monat", "mes"],
+    "starten": ["starten", "empezar", "iniciar"],
+    "abend": ["der Abend", "noche, tarde (al anochecer)"],
+    "in": ["in", "en", "dentro de"],
+    "geschäft": ["das Geschäft", "tienda", "negocio"],
+    "braucht": ["brauchen", "necesita"],
+    "neue": ["neu", "nueva", "nuevo"],
+    "jacke": ["die Jacke", "chaqueta"],
+    "arbeit": ["die Arbeit", "trabajo"],
+    "sieht": ["sehen", "ve", "(sieht … aus) tiene aspecto de"],
+    "zwei": ["zwei", "dos"],
+    "jacken": ["die Jacke", "chaquetas"],
+    "blaue": ["blau", "azul"],
+    "kostet": ["kosten", "cuesta"],
+    "neunzig": ["neunzig", "noventa"],
+    "euro": ["der Euro", "euro"],
+    "graue": ["grau", "gris"],
+    "siebzig": ["siebzig", "setenta"],
+    "verkäuferin": ["die Verkäuferin", "vendedora"],
+    "zu": ["zu", "a / hacia", "demasiado (zu groß)"],
+    "ihm": ["er (Dativ)", "le / a él"],
+    "kann": ["können", "puede", "sabe"],
+    "ihnen": ["Sie (Dativ)", "le / a usted"],
+    "helfen": ["helfen", "ayudar"],
+    "bitte": ["bitte", "por favor", "de nada"],
+    "wärmer": ["warm -> wärmer", "más caliente", "más abrigado"],
+    "leichter": ["leicht -> leichter", "más ligero", "más fácil"],
+    "günstiger": ["günstig -> günstiger", "más barato"],
+    "probiert": ["probieren (anprobieren)", "prueba", "se prueba"],
+    "beide": ["beide", "ambas", "los dos"],
+    "groß": ["groß", "grande", "alto"],
+    "nehme": ["nehmen", "tomo", "me llevo"],
+    "obwohl": ["obwohl", "aunque", "a pesar de que"],
+    "teurer": ["teuer -> teurer", "más caro"],
+    "aus": ["aus", "(parte separable de aussehen: sieht … aus)", "de (procedencia)"],
+    "trage": ["tragen", "llevo puesto", "llevo (cargo)"],
+    "jeden": ["jeder", "cada", "todos los"],
+    "zahlt": ["zahlen", "paga"],
+    "mit": ["mit", "con", "en (medio de transporte)"],
+    "karte": ["die Karte", "tarjeta", "mapa / carta"],
+    "gibt": ["geben", "da", "hay (es gibt)"],
+    "tüte": ["die Tüte", "bolsa (de papel o plástico)"],
+    "quittung": ["die Quittung", "recibo", "justificante"],
+    "möchte": ["mögen (möchten)", "quiere", "querría"],
+    "neues": ["neu", "nuevo (neutro)"],
+    "konto": ["das Konto", "cuenta (bancaria)"],
+    "eröffnen": ["eröffnen", "abrir", "inaugurar"],
+    "alte": ["alt", "vieja", "antigua"],
+    "teuer": ["teuer", "caro"],
+    "beraterin": ["die Beraterin", "asesora"],
+    "haben": ["haben", "tener", "tienen / tenemos"],
+    "elf": ["elf", "once"],
+    "zeigen": ["zeigen", "mostrar", "enseñar"],
+    "ihren": ["Ihr", "su (de usted, acusativo masculino)"],
+    "ausweis": ["der Ausweis", "documento de identidad"],
+    "ihre": ["Ihr", "su (de usted)", "sus"],
+    "adresse": ["die Adresse", "dirección"],
+    "letzten": ["letzt", "pasado", "último"],
+    "umgezogen": ["umziehen", "mudado", "me he mudado"],
+    "melde": ["melden (sich anmelden)", "registro", "informo"],
+    "mich": ["ich (Akkusativ)", "me"],
+    "beim": ["bei + dem", "en el", "en casa del"],
+    "kein": ["kein", "ningún", "no (delante de sustantivo)"],
+    "problem": ["das Problem", "problema"],
+    "bei": ["bei", "en", "en casa de / junto a"],
+    "ihrer": ["Ihr", "su (de usted, dativo femenino)"],
+    "alten": ["alt", "viejo", "antiguo (dativo)"],
+    "nächste": ["nächst", "próxima", "siguiente"],
+    "per": ["per", "por (medio)", "mediante"],
+    "post": ["die Post", "correo", "oficina de correos"],
+    "dann": ["dann", "entonces", "luego"],
+    "online": ["online", "en línea", "por internet"],
+    "unterschreibt": ["unterschreiben", "firma"],
+    "papiere": ["das Papier", "papeles", "documentos"],
+    "zufrieden": ["zufrieden", "satisfecho", "contento"],
+    "alles": ["alles", "todo"],
+    "so": ["so", "tan", "así"],
+    "schnell": ["schnell", "rápido", "rápidamente"],
+    "gegangen": ["gehen", "ido", "ha ido / ha salido (bien)"],
+    "arbeitet": ["arbeiten", "trabaja"],
+    "viel": ["viel", "mucho"],
+    "mails": ["die Mail", "correos electrónicos"],
+    "telefoniert": ["telefonieren", "habla por teléfono"],
+    "kurze": ["kurz", "cortas", "breves"],
+    "besprechungen": ["die Besprechung", "reuniones"],
+    "mittagspause": ["die Mittagspause", "pausa del mediodía"],
+    "isst": ["essen", "come"],
+    "kantine": ["die Kantine", "comedor (de empresa)", "cantina"],
+    "essen": ["das Essen", "comida", "comer"],
+    "gestern": ["gestern", "ayer"],
+    "freundlich": ["freundlich", "amable", "simpático"],
+    "sprechen": ["sprechen", "hablar", "hablan"],
+    "stunde": ["die Stunde", "hora (duración)", "clase"],
+    "ende": ["das Ende", "final", "fin"],
+    "vertrag": ["der Vertrag", "contrato"],
+    "sehr": ["sehr", "muy"],
+    "froh": ["froh", "contento", "alegre"],
+    "fährt": ["fahren", "va (en vehículo)", "conduce"],
+    "dem": ["der/das (Dativ)", "el (dativo)"],
+    "bus": ["der Bus", "autobús"],
+    "dort": ["dort", "allí"],
+    "nummer": ["die Nummer", "número", "turno"],
+    "ziehen": ["ziehen", "sacar, coger (una ficha)", "tirar"],
+    "lange": ["lang -> lange", "mucho tiempo", "largo (adverbio)"],
+    "warten": ["warten", "esperar"],
+    "nach": ["nach", "después de", "hacia / a"],
+    "vierzig": ["vierzig", "cuarenta"],
+    "minuten": ["die Minute", "minutos"],
+    "mitarbeiter": ["der Mitarbeiter", "empleado", "colaborador"],
+    "dreißig": ["dreißig", "treinta"],
+    "was": ["was", "qué", "lo que"],
+    "tun": ["tun", "hacer"],
+    "anmelden": ["anmelden", "registrar(se)", "inscribir(se)"],
+    "wohne": ["wohnen", "vivo", "resido"],
+    "seit": ["seit", "desde", "hace (tiempo)"],
+    "einem": ["ein (Dativ)", "un"],
+    "dieser": ["dieser", "esta (dativo)", "este"],
+    "stadt": ["die Stadt", "ciudad"],
+    "mietvertrag": ["der Mietvertrag", "contrato de alquiler"],
+    "formular": ["das Formular", "formulario"],
+    "dabei": ["dabei", "con usted / consigo", "al hacerlo"],
+    "prüft": ["prüfen", "comprueba", "revisa"],
+    "stempelt": ["stempeln", "sella"],
+    "jetzt": ["jetzt", "ahora"],
+    "sind": ["sein", "son", "están / es (usted)"],
+    "angemeldet": ["anmelden", "registrado", "inscrito"],
+    "macht": ["machen", "hace", "son (precio)"],
+    "fünfzehn": ["fünfzehn", "quince"],
+    "bar": ["bar", "en efectivo"],
+    "bekommt": ["bekommen", "recibe", "consigue"],
+    "bestätigung": ["die Bestätigung", "confirmación", "justificante"],
+    "bekommen": ["bekommen", "recibir", "obtener"],
+    "endlich": ["endlich", "por fin", "al fin"],
+    "einkaufen": ["einkaufen", "comprar", "hacer la compra"],
+    "wird": ["werden", "va a (futuro)", "se convierte en"],
+    "mutter": ["die Mutter", "madre"],
+    "erzählt": ["erzählen", "cuenta", "relata"],
+    "dass": ["dass", "que (conjunción)"],
+    "geschafft": ["schaffen", "conseguido", "logrado / hecho"],
+    "sich": ["sich", "se", "a sí mismo"],
+    "ausruhen": ["ausruhen", "descansar"],
+    "wenn": ["wenn", "si", "cuando"],
+    "wetter": ["das Wetter", "tiempo (clima)"],
+    "schön": ["schön", "bonito", "agradable"],
+    "park": ["der Park", "parque"],
+    "spazieren": ["spazieren (gehen)", "pasear", "dar un paseo"],
+    "gehen": ["gehen", "ir", "caminar"]
+  },
+  "parrafos": [
+    {
+      "de": "Am Montag beginnt für Daniel eine intensive Woche. Er hat viele Termine im Büro und muss auch einige Dinge erledigen.",
+      "es": "El lunes empieza para Daniel una semana intensa. Tiene muchas citas en la oficina y también tiene que resolver algunas cosas."
+    },
+    {
+      "de": "Zuerst schreibt er einen Plan, weil er nichts vergessen will. Am Dienstag hat er eine Besprechung, am Mittwoch geht er zur Bank und am Freitag zum Amt.",
+      "es": "Primero escribe un plan porque no quiere olvidar nada. El martes tiene una reunión, el miércoles va al banco y el viernes a la oficina de registro."
+    },
+    {
+      "de": "Um halb acht nimmt er die Straßenbahn. Sie ist heute pünktlich, deshalb kommt er früh im Büro an.",
+      "es": "A las siete y media coge el tranvía. Hoy es puntual, por eso llega temprano a la oficina."
+    },
+    {
+      "de": "Im Büro trifft er seine Kollegin Sabine. „Guten Morgen, Daniel!“",
+      "es": "En la oficina se encuentra con su compañera Sabine. «¡Buenos días, Daniel!»"
+    },
+    {
+      "de": "„Hast du am Wochenende gut geschlafen?“",
+      "es": "«¿Has dormido bien el fin de semana?»"
+    },
+    {
+      "de": "„Ja, danke, aber ich bin nervös“, antwortet Daniel. „Morgen werde ich ein Projekt präsentieren.“",
+      "es": "«Sí, gracias, pero estoy nervioso», responde Daniel. «Mañana voy a presentar un proyecto.»"
+    },
+    {
+      "de": "„Das schaffst du bestimmt“, sagt Sabine. „Der Chef mag klare Präsentationen.“",
+      "es": "«Seguro que lo consigues», dice Sabine. «Al jefe le gustan las presentaciones claras.»"
+    },
+    {
+      "de": "Daniel schreibt eine Mail an den Kunden. Er bittet um einen Termin am Donnerstag.",
+      "es": "Daniel escribe un correo al cliente. Le pide una cita para el jueves."
+    },
+    {
+      "de": "Am Nachmittag ruft der Kunde an. „Guten Tag, hier ist Herr Weber.“",
+      "es": "Por la tarde llama el cliente. «Buenas tardes, soy el señor Weber.»"
+    },
+    {
+      "de": "„Der Donnerstag passt mir leider nicht.“",
+      "es": "«El jueves lamentablemente no me viene bien.»"
+    },
+    {
+      "de": "„Können wir uns am Freitag um zehn Uhr treffen?“, fragt Daniel. „Ja, das ist besser“, sagt Herr Weber.",
+      "es": "«¿Podemos vernos el viernes a las diez?», pregunta Daniel. «Sí, eso es mejor», dice el señor Weber."
+    },
+    {
+      "de": "Am Dienstag präsentiert Daniel sein Projekt. Am Anfang ist er nervös, aber danach spricht er ruhig und klar.",
+      "es": "El martes Daniel presenta su proyecto. Al principio está nervioso, pero después habla con calma y con claridad."
+    },
+    {
+      "de": "Der Chef sagt: „Die Präsentation war besser als letztes Mal. Wir werden das Projekt nächsten Monat starten.“",
+      "es": "El jefe dice: «La presentación fue mejor que la última vez. Vamos a empezar el proyecto el mes que viene.»"
+    },
+    {
+      "de": "Am Abend geht Daniel in ein Geschäft. Er braucht eine neue Jacke für die Arbeit.",
+      "es": "Por la tarde Daniel va a una tienda. Necesita una chaqueta nueva para el trabajo."
+    },
+    {
+      "de": "Im Geschäft sieht er zwei Jacken. Die blaue kostet neunzig Euro, die graue siebzig Euro.",
+      "es": "En la tienda ve dos chaquetas. La azul cuesta noventa euros y la gris setenta."
+    },
+    {
+      "de": "Eine Verkäuferin kommt zu ihm. „Kann ich Ihnen helfen?“",
+      "es": "Una vendedora se acerca a él. «¿Puedo ayudarle?»"
+    },
+    {
+      "de": "„Ja, bitte. Ist die blaue Jacke besser als die graue?“, fragt Daniel.",
+      "es": "«Sí, por favor. ¿Es la chaqueta azul mejor que la gris?», pregunta Daniel."
+    },
+    {
+      "de": "„Die blaue ist wärmer, aber die graue ist leichter“, antwortet sie. „Die graue ist auch günstiger.“",
+      "es": "«La azul es más abrigada, pero la gris es más ligera», responde ella. «La gris también es más barata.»"
+    },
+    {
+      "de": "Daniel probiert beide Jacken an. Die graue ist zu groß, aber die blaue passt ihm gut.",
+      "es": "Daniel se prueba las dos chaquetas. La gris es demasiado grande, pero la azul le queda bien."
+    },
+    {
+      "de": "„Ich nehme die blaue, obwohl sie teurer ist“, sagt er. „Sie sieht besser aus, und ich trage sie jeden Tag.“",
+      "es": "«Me llevo la azul, aunque es más cara», dice. «Tiene mejor aspecto y me la pondré todos los días.»"
+    },
+    {
+      "de": "Er zahlt mit der Karte. Die Verkäuferin gibt ihm eine Tüte und eine Quittung.",
+      "es": "Paga con tarjeta. La vendedora le da una bolsa y un recibo."
+    },
+    {
+      "de": "Am Mittwoch geht Daniel zur Bank. Er möchte ein neues Konto eröffnen, weil seine alte Bank zu teuer ist.",
+      "es": "El miércoles Daniel va al banco. Quiere abrir una cuenta nueva porque su banco antiguo es demasiado caro."
+    },
+    {
+      "de": "Die Beraterin fragt: „Haben Sie einen Termin?“ „Ja, um elf Uhr“, antwortet Daniel.",
+      "es": "La asesora pregunta: «¿Tiene una cita?» «Sí, a las once», responde Daniel."
+    },
+    {
+      "de": "„Bitte zeigen Sie mir Ihren Ausweis“, sagt die Beraterin. „Ich brauche auch Ihre Adresse.“",
+      "es": "«Por favor, muéstreme su documento de identidad», dice la asesora. «También necesito su dirección.»"
+    },
+    {
+      "de": "„Ich bin letzten Monat umgezogen“, sagt Daniel. „Am Freitag melde ich mich beim Amt an.“",
+      "es": "«Me mudé el mes pasado», dice Daniel. «El viernes me registro en la oficina de registro.»"
+    },
+    {
+      "de": "„Das ist kein Problem“, sagt die Beraterin. „Das Konto ist günstiger als bei Ihrer alten Bank.“",
+      "es": "«No hay ningún problema», dice la asesora. «La cuenta es más barata que en su banco antiguo.»"
+    },
+    {
+      "de": "„Ihre Karte kommt nächste Woche per Post, und Sie können dann online zahlen.“",
+      "es": "«Su tarjeta llegará la semana que viene por correo y entonces podrá pagar por internet.»"
+    },
+    {
+      "de": "Daniel unterschreibt die Papiere. Er ist zufrieden, weil alles so schnell gegangen ist.",
+      "es": "Daniel firma los papeles. Está satisfecho porque todo ha ido muy rápido."
+    },
+    {
+      "de": "Am Donnerstag arbeitet er viel. Er schreibt Mails, telefoniert und hat zwei kurze Besprechungen.",
+      "es": "El jueves trabaja mucho. Escribe correos, habla por teléfono y tiene dos reuniones cortas."
+    },
+    {
+      "de": "In der Mittagspause isst er mit Sabine in der Kantine. Das Essen ist heute besser als gestern.",
+      "es": "En la pausa del mediodía come con Sabine en el comedor. La comida está hoy mejor que ayer."
+    },
+    {
+      "de": "Am Freitag trifft Daniel um zehn Uhr den Kunden. Herr Weber ist freundlich, und sie sprechen eine Stunde.",
+      "es": "El viernes Daniel se reúne con el cliente a las diez. El señor Weber es amable y hablan durante una hora."
+    },
+    {
+      "de": "Am Ende unterschreibt der Kunde den Vertrag. Daniel ist sehr froh.",
+      "es": "Al final el cliente firma el contrato. Daniel está muy contento."
+    },
+    {
+      "de": "Danach fährt er mit dem Bus zum Amt. Dort muss er eine Nummer ziehen und lange warten.",
+      "es": "Después va en autobús a la oficina de registro. Allí tiene que sacar un número y esperar mucho tiempo."
+    },
+    {
+      "de": "Nach vierzig Minuten ruft ein Mitarbeiter: „Nummer dreißig, bitte!“",
+      "es": "Después de cuarenta minutos, un empleado llama: «¡Número treinta, por favor!»"
+    },
+    {
+      "de": "Der Mitarbeiter fragt: „Was kann ich für Sie tun?“",
+      "es": "El empleado pregunta: «¿Qué puedo hacer por usted?»"
+    },
+    {
+      "de": "„Ich möchte mich anmelden. Ich wohne seit einem Monat in dieser Stadt“, antwortet Daniel.",
+      "es": "«Quiero registrarme. Vivo en esta ciudad desde hace un mes», responde Daniel."
+    },
+    {
+      "de": "„Haben Sie den Mietvertrag und das Formular dabei?“",
+      "es": "«¿Tiene consigo el contrato de alquiler y el formulario?»"
+    },
+    {
+      "de": "Daniel gibt ihm die Papiere. Der Mitarbeiter prüft alles und stempelt das Formular.",
+      "es": "Daniel le da los papeles. El empleado lo revisa todo y sella el formulario."
+    },
+    {
+      "de": "„So, jetzt sind Sie angemeldet. Das macht fünfzehn Euro.“",
+      "es": "«Bien, ahora ya está registrado. Son quince euros.»"
+    },
+    {
+      "de": "Daniel zahlt bar und bekommt eine Bestätigung.",
+      "es": "Daniel paga en efectivo y recibe un justificante."
+    },
+    {
+      "de": "Nächste Woche wird er seine neue Karte bekommen. Dann wird er endlich online einkaufen können.",
+      "es": "La semana que viene recibirá su nueva tarjeta. Entonces por fin podrá comprar por internet."
+    },
+    {
+      "de": "Am Abend ruft Daniel seine Mutter an. Er erzählt, dass er viel geschafft hat.",
+      "es": "Por la noche Daniel llama a su madre. Le cuenta que ha conseguido hacer mucho."
+    },
+    {
+      "de": "Am Wochenende wird er sich ausruhen. Wenn das Wetter schön ist, wird er im Park spazieren gehen.",
+      "es": "El fin de semana descansará. Si hace buen tiempo, irá a pasear por el parque."
+    }
+  ]
+}

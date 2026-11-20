@@ -1,0 +1,2484 @@
+{
+  "titulo": "Eine intensive Woche zwischen Büro, Einkäufen und Terminen",
+  "vocabulario": {
+    "eine": [
+      "ein",
+      "un / una"
+    ],
+    "intensive": [
+      "intensiv",
+      "intenso / intensa"
+    ],
+    "woche": [
+      "die Woche",
+      "la semana"
+    ],
+    "zwischen": [
+      "zwischen",
+      "entre"
+    ],
+    "büro": [
+      "das Büro",
+      "la oficina"
+    ],
+    "einkäufen": [
+      "der Einkauf",
+      "las compras",
+      "la compra"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "terminen": [
+      "der Termin",
+      "la cita"
+    ],
+    "es": [
+      "es",
+      "ello / es / hay"
+    ],
+    "ist": [
+      "sein",
+      "es / está"
+    ],
+    "montagmorgen": [
+      "der Montagmorgen",
+      "la mañana del lunes"
+    ],
+    "sechs": [
+      "sechs",
+      "seis"
+    ],
+    "uhr": [
+      "die Uhr",
+      "la hora / el reloj"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "steht": [
+      "aufstehen",
+      "se levanta / está de pie"
+    ],
+    "auf": [
+      "auf",
+      "en / sobre / a"
+    ],
+    "weil": [
+      "weil",
+      "porque"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "heute": [
+      "heute",
+      "hoy"
+    ],
+    "viele": [
+      "viel",
+      "muchos / muchas"
+    ],
+    "aufgaben": [
+      "die Aufgabe",
+      "la tarea"
+    ],
+    "hat": [
+      "haben",
+      "tiene"
+    ],
+    "zuerst": [
+      "zuerst",
+      "primero / al principio"
+    ],
+    "trinkt": [
+      "trinken",
+      "bebe / toma"
+    ],
+    "einen": [
+      "ein",
+      "un"
+    ],
+    "starken": [
+      "stark",
+      "fuerte / cargado"
+    ],
+    "kaffee": [
+      "der Kaffee",
+      "el café"
+    ],
+    "in": [
+      "in",
+      "en / dentro de"
+    ],
+    "der": [
+      "der",
+      "el / la / los (artículo)"
+    ],
+    "küche": [
+      "die Küche",
+      "la cocina"
+    ],
+    "dann": [
+      "dann",
+      "entonces / luego"
+    ],
+    "pack": [
+      "packen",
+      "empacar / meter"
+    ],
+    "seine": [
+      "sein",
+      "sus"
+    ],
+    "arbeitstasche": [
+      "die Arbeitstasche",
+      "la bolsa de trabajo"
+    ],
+    "mit": [
+      "mit",
+      "con"
+    ],
+    "laptop": [
+      "der Laptop",
+      "el portátil"
+    ],
+    "ladekabel": [
+      "das Ladekabel",
+      "el cable de cargador"
+    ],
+    "notizbuch": [
+      "das Notizbuch",
+      "el cuaderno"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "einem": [
+      "ein",
+      "un / una"
+    ],
+    "regenschirm": [
+      "der Regenschirm",
+      "el paraguas"
+    ],
+    "draußen": [
+      "draußen",
+      "afuera / en la calle"
+    ],
+    "regnet": [
+      "regnen",
+      "llueve"
+    ],
+    "deshalb": [
+      "deshalb",
+      "por eso"
+    ],
+    "fährt": [
+      "fahren",
+      "va / viaja / conduce"
+    ],
+    "nicht": [
+      "nicht",
+      "no"
+    ],
+    "dem": [
+      "der",
+      "el / la (dativo)"
+    ],
+    "fahrrad": [
+      "das Fahrrad",
+      "la bicicleta"
+    ],
+    "sondern": [
+      "sondern",
+      "sino"
+    ],
+    "nehmen": [
+      "nehmen",
+      "tomar / coger"
+    ],
+    "den": [
+      "der",
+      "el / los (acusativo/dativo)"
+    ],
+    "bus": [
+      "der Bus",
+      "el autobús"
+    ],
+    "an": [
+      "an",
+      "en / junto a"
+    ],
+    "bushaltestelle": [
+      "die Bushaltestelle",
+      "la parada de autobús"
+    ],
+    "wartet": [
+      "warten",
+      "espera"
+    ],
+    "sieben": [
+      "sieben",
+      "siete"
+    ],
+    "minuten": [
+      "die Minute",
+      "el minuto"
+    ],
+    "auf": [
+      "auf",
+      "a / en"
+    ],
+    "linie": [
+      "die Linie",
+      "la línea"
+    ],
+    "zwölf": [
+      "zwölf",
+      "doce"
+    ],
+    "der": [
+      "der",
+      "el / que"
+    ],
+    "bus": [
+      "der Bus",
+      "el autobús"
+    ],
+    "ist": [
+      "sein",
+      "es / está"
+    ],
+    "pünktlich": [
+      "pünktlich",
+      "puntual"
+    ],
+    "aber": [
+      "aber",
+      "pero"
+    ],
+    "ziemlich": [
+      "ziemlich",
+      "bastante"
+    ],
+    "voll": [
+      "voll",
+      "lleno"
+    ],
+    "trotzdem": [
+      "trotzdem",
+      "a pesar de ello / sin embargo"
+    ],
+    "findet": [
+      "finden",
+      "encuentra"
+    ],
+    "einen": [
+      "ein",
+      "un"
+    ],
+    "freien": [
+      "frei",
+      "libre"
+    ],
+    "platz": [
+      "der Platz",
+      "el sitio / la plaza"
+    ],
+    "hinten": [
+      "hinten",
+      "atrás / en la parte trasera"
+    ],
+    "während": [
+      "während",
+      "mientras"
+    ],
+    "der": [
+      "der",
+      "el"
+    ],
+    "fahrt": [
+      "die Fahrt",
+      "el trayecto / el viaje"
+    ],
+    "liest": [
+      "lesen",
+      "lee"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "schnell": [
+      "schnell",
+      "rápido"
+    ],
+    "die": [
+      "die",
+      "la / las / los"
+    ],
+    "neuen": [
+      "neu",
+      "nuevo"
+    ],
+    "nachrichten": [
+      "die Nachricht",
+      "la noticia"
+    ],
+    "auf": [
+      "auf",
+      "en"
+    ],
+    "seinem": [
+      "sein",
+      "su"
+    ],
+    "handy": [
+      "das Handy",
+      "el móvil / el celular"
+    ],
+    "um": [
+      "um",
+      "a (las horas) / alrededor de"
+    ],
+    "acht": [
+      "acht",
+      "ocho"
+    ],
+    "dreißig": [
+      "dreißig",
+      "treinta"
+    ],
+    "kommt": [
+      "ankommen",
+      "llega"
+    ],
+    "im": [
+      "in + dem",
+      "en el"
+    ],
+    "büro": [
+      "das Büro",
+      "la oficina"
+    ],
+    "seine": [
+      "sein",
+      "sus"
+    ],
+    "kollegin": [
+      "die Kollegin",
+      "la compañera (de trabajo)"
+    ],
+    "anna": [
+      "Anna",
+      "Anna (nombre propio)"
+    ],
+    "sitzt": [
+      "sitzen",
+      "está sentada / se sienta"
+    ],
+    "schon": [
+      "schon",
+      "ya"
+    ],
+    "am": [
+      "an + dem",
+      "en el / al"
+    ],
+    "schreibtisch": [
+      "der Schreibtisch",
+      "el escritorio"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "schreibt": [
+      "schreiben",
+      "escribe"
+    ],
+    "eine": [
+      "ein",
+      "una"
+    ],
+    "wichtige": [
+      "wichtig",
+      "importante"
+    ],
+    "e-mail": [
+      "die E-Mail",
+      "el correo electrónico"
+    ],
+    "an": [
+      "an",
+      "a / en"
+    ],
+    "einen": [
+      "ein",
+      "un"
+    ],
+    "kunden": [
+      "der Kunde",
+      "el cliente"
+    ],
+    "morgen": [
+      "morgen",
+      "mañana"
+    ],
+    "müssen": [
+      "müssen",
+      "tener que / deber"
+    ],
+    "wir": [
+      "wir",
+      "nosotros / nosotras"
+    ],
+    "den": [
+      "der",
+      "el"
+    ],
+    "bericht": [
+      "der Bericht",
+      "el informe"
+    ],
+    "fertig": [
+      "fertig",
+      "listo / terminado"
+    ],
+    "haben": [
+      "haben",
+      "tener"
+    ],
+    "sagt": [
+      "sagen",
+      "dice"
+    ],
+    "sie": [
+      "sie",
+      "ella / ellas / usted / ustedes"
+    ],
+    "freundlich": [
+      "freundlich",
+      "amable"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "antwortet": [
+      "antworten",
+      "responde / contesta"
+    ],
+    "kein": [
+      "kein",
+      "ningún / no hay"
+    ],
+    "problem": [
+      "das Problem",
+      "el problema"
+    ],
+    "ich": [
+      "ich",
+      "yo"
+    ],
+    "werde": [
+      "werden",
+      "voy a (futuro) / me volveré"
+    ],
+    "heute": [
+      "heute",
+      "hoy"
+    ],
+    "nachmittag": [
+      "der Nachmittag",
+      "la tarde"
+    ],
+    "die": [
+      "die",
+      "las / los"
+    ],
+    "zahlen": [
+      "die Zahl",
+      "el número / la cifra"
+    ],
+    "prüfen": [
+      "prüfen",
+      "revisar / comprobar"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "morgen": [
+      "morgen",
+      "mañana"
+    ],
+    "vormittag": [
+      "der Vormittag",
+      "la mañana (hasta el mediodía)"
+    ],
+    "schicken": [
+      "schicken",
+      "enviar / mandar"
+    ],
+    "wir": [
+      "wir",
+      "nosotros / nosotras"
+    ],
+    "alles": [
+      "alles",
+      "todo"
+    ],
+    "ab": [
+      "ab",
+      "a partir de / desde"
+    ],
+    "um": [
+      "um",
+      "a (las horas)"
+    ],
+    "neun": [
+      "neun",
+      "nueve"
+    ],
+    "uhr": [
+      "die Uhr",
+      "la hora"
+    ],
+    "klingelt": [
+      "klingeln",
+      "suena (el teléfono/timbre)"
+    ],
+    "das": [
+      "das",
+      "el / la"
+    ],
+    "telefon": [
+      "das Telefon",
+      "el teléfono"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "nimmt": [
+      "abnehmen",
+      "coge / descuelga"
+    ],
+    "hörer": [
+      "der Hörer",
+      "el auricular"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "spricht": [
+      "sprechen",
+      "habla"
+    ],
+    "mit": [
+      "mit",
+      "con"
+    ],
+    "einem": [
+      "ein",
+      "un"
+    ],
+    "lieferanten": [
+      "der Lieferant",
+      "el proveedor"
+    ],
+    "die": [
+      "die",
+      "la"
+    ],
+    "bestellung": [
+      "die Bestellung",
+      "el pedido"
+    ],
+    "für": [
+      "für",
+      "para"
+    ],
+    "unsere": [
+      "unser",
+      "nuestra"
+    ],
+    "neuen": [
+      "neu",
+      "nuevos"
+    ],
+    "bürostühle": [
+      "der Bürostuhl",
+      "la silla de oficina"
+    ],
+    "kommt": [
+      "ankommen",
+      "llega"
+    ],
+    "erst": [
+      "erst",
+      "recién / solo / no hasta"
+    ],
+    "am": [
+      "an + dem",
+      "el"
+    ],
+    "donnerstag": [
+      "der Donnerstag",
+      "el jueves"
+    ],
+    "erklärt": [
+      "erklären",
+      "explica"
+    ],
+    "der": [
+      "der",
+      "el"
+    ],
+    "mann": [
+      "der Mann",
+      "el hombre"
+    ],
+    "am": [
+      "an + dem",
+      "al / en el"
+    ],
+    "apparat": [
+      "der Apparat",
+      "el teléfono / el aparato"
+    ],
+    "das": [
+      "das",
+      "eso / lo cual"
+    ],
+    "ist": [
+      "sein",
+      "es"
+    ],
+    "später": [
+      "spät -> später",
+      "más tarde"
+    ],
+    "als": [
+      "als",
+      "que (en comparaciones) / cuando"
+    ],
+    "geplant": [
+      "planen",
+      "planeado / previsto"
+    ],
+    "obwohl": [
+      "obwohl",
+      "aunque"
+    ],
+    "es": [
+      "es",
+      "ello"
+    ],
+    "ärgerlich": [
+      "ärgerlich",
+      "molesto / fastidioso"
+    ],
+    "bleibt": [
+      "bleiben",
+      "permanece / sigue"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "ruhig": [
+      "ruhig",
+      "tranquilo"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "fragt": [
+      "fragen",
+      "pregunta"
+    ],
+    "können": [
+      "können",
+      "poder"
+    ],
+    "sie": [
+      "sie",
+      "usted / ustedes / ellos"
+    ],
+    "uns": [
+      "wir",
+      "nos"
+    ],
+    "wenigstens": [
+      "wenigstens",
+      "al menos / por lo menos"
+    ],
+    "einen": [
+      "ein",
+      "un"
+    ],
+    "rabatt": [
+      "der Rabatt",
+      "el descuento"
+    ],
+    "geben": [
+      "geben",
+      "dar"
+    ],
+    "ja": [
+      "ja",
+      "sí / pues"
+    ],
+    "natürlich": [
+      "natürlich",
+      "claro / por supuesto"
+    ],
+    "wir": [
+      "wir",
+      "nosotros"
+    ],
+    "machen": [
+      "machen",
+      "hacemos"
+    ],
+    "zehn": [
+      "zehn",
+      "diez"
+    ],
+    "prozent": [
+      "das Prozent",
+      "el porcentaje / por ciento"
+    ],
+    "preisnachlass": [
+      "der Preisnachlass",
+      "la rebaja de precio / el descuento"
+    ],
+    "antwortet": [
+      "antworten",
+      "responde"
+    ],
+    "der": [
+      "der",
+      "el"
+    ],
+    "lieferant": [
+      "der Lieferant",
+      "el proveedor"
+    ],
+    "um": [
+      "um",
+      "a (las horas)"
+    ],
+    "elf": [
+      "elf",
+      "once"
+    ],
+    "uhr": [
+      "die Uhr",
+      "la hora"
+    ],
+    "haben": [
+      "haben",
+      "tienen"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "anna": [
+      "Anna",
+      "Anna (nombre propio)"
+    ],
+    "eine": [
+      "ein",
+      "una"
+    ],
+    "besprechung": [
+      "die Besprechung",
+      "la reunión"
+    ],
+    "im": [
+      "in + dem",
+      "en la"
+    ],
+    "meetingraum": [
+      "der Meetingraum",
+      "la sala de reuniones"
+    ],
+    "ihr": [
+      "ihr",
+      "su"
+    ],
+    "chef": [
+      "der Chef",
+      "el jefe"
+    ],
+    "herr": [
+      "der Herr",
+      "el señor"
+    ],
+    "weber": [
+      "Weber",
+      "Weber (apellido)"
+    ],
+    "sagt": [
+      "sagen",
+      "dice"
+    ],
+    "nächste": [
+      "nah -> nächste",
+      "próxima"
+    ],
+    "woche": [
+      "die Woche",
+      "la semana"
+    ],
+    "werden": [
+      "werden",
+      "vamos a (futuro) / seremos"
+    ],
+    "wir": [
+      "wir",
+      "nosotros"
+    ],
+    "ein": [
+      "ein",
+      "un"
+    ],
+    "größeres": [
+      "groß -> größer",
+      "más grande"
+    ],
+    "projekt": [
+      "das Projekt",
+      "el proyecto"
+    ],
+    "starten": [
+      "starten",
+      "empezar / iniciar"
+    ],
+    "das": [
+      "das",
+      "eso / lo"
+    ],
+    "neue": [
+      "neu",
+      "nuevo"
+    ],
+    "büro": [
+      "das Büro",
+      "la oficina"
+    ],
+    "ist": [
+      "sein",
+      "es"
+    ],
+    "zwar": [
+      "zwar",
+      "ciertamente / si bien"
+    ],
+    "kleiner": [
+      "klein -> kleiner",
+      "más pequeño"
+    ],
+    "als": [
+      "als",
+      "que"
+    ],
+    "das": [
+      "das",
+      "el / aquello"
+    ],
+    "alte": [
+      "alt",
+      "viejo / antiguo"
+    ],
+    "aber": [
+      "aber",
+      "pero"
+    ],
+    "viel": [
+      "viel",
+      "mucho"
+    ],
+    "moderner": [
+      "modern -> moderner",
+      "más moderno"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "heller": [
+      "hell -> heller",
+      "más luminoso"
+    ],
+    "am": [
+      "an + dem",
+      "el"
+    ],
+    "besten": [
+      "gut -> am besten",
+      "lo mejor / mejor"
+    ],
+    "gefällt": [
+      "gefallen",
+      "gusta"
+    ],
+    "mir": [
+      "ich",
+      "me"
+    ],
+    "die": [
+      "die",
+      "la"
+    ],
+    "lage": [
+      "die Lage",
+      "la ubicación / la situación"
+    ],
+    "nahe": [
+      "nahe",
+      "cerca de"
+    ],
+    "dem": [
+      "der",
+      "la (dativo)"
+    ],
+    "bahnhof": [
+      "der Bahnhof",
+      "la estación de tren"
+    ],
+    "meint": [
+      "meinen",
+      "opina / dice"
+    ],
+    "anna": [
+      "Anna",
+      "Anna (nombre propio)"
+    ],
+    "nach": [
+      "nach",
+      "después de"
+    ],
+    "der": [
+      "der",
+      "la"
+    ],
+    "besprechung": [
+      "die Besprechung",
+      "la reunión"
+    ],
+    "machen": [
+      "machen",
+      "hacen"
+    ],
+    "sie": [
+      "sie",
+      "ellos / ellas"
+    ],
+    "eine": [
+      "ein",
+      "una"
+    ],
+    "kurze": [
+      "kurz",
+      "corta / breve"
+    ],
+    "pause": [
+      "die Pause",
+      "la pausa / el descanso"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "hat": [
+      "haben",
+      "tiene"
+    ],
+    "gestern": [
+      "gestern",
+      "ayer"
+    ],
+    "ein": [
+      "ein",
+      "un"
+    ],
+    "leckeres": [
+      "lecker",
+      "rico / delicioso"
+    ],
+    "brot": [
+      "das Brot",
+      "el pan / el bocadillo"
+    ],
+    "mit": [
+      "mit",
+      "con"
+    ],
+    "käse": [
+      "der Käse",
+      "el queso"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "tomaten": [
+      "die Tomate",
+      "el tomate"
+    ],
+    "gekauft": [
+      "kaufen",
+      "comprado"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "isst": [
+      "essen",
+      "come"
+    ],
+    "es": [
+      "es",
+      "lo"
+    ],
+    "jetzt": [
+      "jetzt",
+      "ahora"
+    ],
+    "in": [
+      "in",
+      "en"
+    ],
+    "der": [
+      "der",
+      "la"
+    ],
+    "kantine": [
+      "die Kantine",
+      "el comedor / la cantina"
+    ],
+    "um": [
+      "um",
+      "a (las horas)"
+    ],
+    "vierzehn": [
+      "vierzehn",
+      "catorce"
+    ],
+    "uhr": [
+      "die Uhr",
+      "la hora"
+    ],
+    "verlässt": [
+      "verlassen",
+      "sale de / deja"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "das": [
+      "das",
+      "el"
+    ],
+    "büro": [
+      "das Büro",
+      "la oficina"
+    ],
+    "für": [
+      "für",
+      "durante / para"
+    ],
+    "zwei": [
+      "zwei",
+      "dos"
+    ],
+    "stunden": [
+      "die Stunde",
+      "la hora"
+    ],
+    "denn": [
+      "denn",
+      "porque / pues"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "möchte": [
+      "mögen",
+      "querría / le gustaría"
+    ],
+    "wichtige": [
+      "wichtig",
+      "importantes"
+    ],
+    "erledigungen": [
+      "die Erledigung",
+      "el recado / la gestión"
+    ],
+    "machen": [
+      "machen",
+      "hacer"
+    ],
+    "zuerst": [
+      "zuerst",
+      "primero"
+    ],
+    "geht": [
+      "gehen",
+      "va"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "zur": [
+      "zu + der",
+      "a la"
+    ],
+    "bank": [
+      "die Bank",
+      "el banco"
+    ],
+    "um": [
+      "um",
+      "para"
+    ],
+    "seine": [
+      "sein",
+      "su"
+    ],
+    "adresse": [
+      "die Adresse",
+      "la dirección"
+    ],
+    "zu": [
+      "zu",
+      "a (partícula de infinitivo)"
+    ],
+    "ändern": [
+      "ändern",
+      "cambiar / modificar"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "bargeld": [
+      "das Bargeld",
+      "el dinero en efectivo"
+    ],
+    "abzuheben": [
+      "abheben",
+      "sacar / retirar (dinero)"
+    ],
+    "guten": [
+      "gut",
+      "buenos"
+    ],
+    "tag": [
+      "der Tag",
+      "el día"
+    ],
+    "ich": [
+      "ich",
+      "yo"
+    ],
+    "habe": [
+      "haben",
+      "tengo"
+    ],
+    "meinen": [
+      "mein",
+      "mi"
+    ],
+    "ausweis": [
+      "der Ausweis",
+      "el documento de identidad"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "meine": [
+      "mein",
+      "mi"
+    ],
+    "bankkarte": [
+      "die Bankkarte",
+      "la tarjeta bancaria"
+    ],
+    "dabei": [
+      "dabei",
+      "conmigo / aquí"
+    ],
+    "sagt": [
+      "sagen",
+      "dice"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "am": [
+      "an + dem",
+      "en el"
+    ],
+    "schalter": [
+      "der Schalter",
+      "la ventanilla / el mostrador"
+    ],
+    "die": [
+      "die",
+      "la"
+    ],
+    "mitarbeiterin": [
+      "die Mitarbeiterin",
+      "la empleada"
+    ],
+    "prüft": [
+      "prüfen",
+      "comprueba / revisa"
+    ],
+    "die": [
+      "die",
+      "los"
+    ],
+    "daten": [
+      "das Datum",
+      "los datos"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "gibt": [
+      "geben",
+      "da"
+    ],
+    "ihm": [
+      "er",
+      "le"
+    ],
+    "eine": [
+      "ein",
+      "una"
+    ],
+    "bestätigung": [
+      "die Bestätigung",
+      "la confirmación"
+    ],
+    "das": [
+      "das",
+      "eso"
+    ],
+    "hat": [
+      "haben",
+      "ha"
+    ],
+    "nur": [
+      "nur",
+      "solo / solamente"
+    ],
+    "zehn": [
+      "zehn",
+      "diez"
+    ],
+    "minuten": [
+      "die Minute",
+      "el minuto"
+    ],
+    "gedauert": [
+      "dauern",
+      "durado"
+    ],
+    "danach": [
+      "danach",
+      "después / a continuación"
+    ],
+    "läuft": [
+      "laufen",
+      "camina / anda"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "ins": [
+      "in + das",
+      "al / en el"
+    ],
+    "rathaus": [
+      "das Rathaus",
+      "el ayuntamiento"
+    ],
+    "weil": [
+      "weil",
+      "porque"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "sich": [
+      "sich",
+      "se"
+    ],
+    "für": [
+      "für",
+      "para"
+    ],
+    "einen": [
+      "ein",
+      "un"
+    ],
+    "neuen": [
+      "neu",
+      "nuevo"
+    ],
+    "parkausweis": [
+      "der Parkausweis",
+      "la tarjeta/permiso de estacionamiento"
+    ],
+    "anmelden": [
+      "anmelden",
+      "registrar / dar de alta"
+    ],
+    "möchte": [
+      "mögen",
+      "querría / desea"
+    ],
+    "im": [
+      "in + dem",
+      "en el"
+    ],
+    "wartezimmer": [
+      "das Wartezimmer",
+      "la sala de espera"
+    ],
+    "sind": [
+      "sein",
+      "están / hay"
+    ],
+    "schon": [
+      "schon",
+      "ya"
+    ],
+    "drei": [
+      "drei",
+      "tres"
+    ],
+    "personen": [
+      "die Person",
+      "la persona"
+    ],
+    "aber": [
+      "aber",
+      "pero"
+    ],
+    "die": [
+      "die",
+      "la"
+    ],
+    "nummer": [
+      "die Nummer",
+      "el número"
+    ],
+    "vierundzwanzig": [
+      "vierundzwanzig",
+      "veinticuatro"
+    ],
+    "kommt": [
+      "drankommen",
+      "le toca el turno"
+    ],
+    "schnell": [
+      "schnell",
+      "rápido"
+    ],
+    "dran": [
+      "dran",
+      "de turno (en drankommen)"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "füllt": [
+      "ausfüllen",
+      "rellena"
+    ],
+    "ein": [
+      "ein",
+      "un"
+    ],
+    "formular": [
+      "das Formular",
+      "el formulario"
+    ],
+    "aus": [
+      "aus",
+      "de / en"
+    ],
+    "bezahlt": [
+      "bezahlen",
+      "paga"
+    ],
+    "dreißig": [
+      "dreißig",
+      "treinta"
+    ],
+    "euro": [
+      "der Euro",
+      "el euro"
+    ],
+    "gebühr": [
+      "die Gebühr",
+      "la tasa / la tarifa"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "bekommt": [
+      "bekommen",
+      "recibe"
+    ],
+    "die": [
+      "die",
+      "la"
+    ],
+    "quittung": [
+      "die Quittung",
+      "el recibo"
+    ],
+    "am": [
+      "an + dem",
+      "el"
+    ],
+    "dienstag": [
+      "der Dienstag",
+      "el martes"
+    ],
+    "hat": [
+      "haben",
+      "tiene"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "um": [
+      "um",
+      "a (las horas)"
+    ],
+    "zehn": [
+      "zehn",
+      "diez"
+    ],
+    "uhr": [
+      "die Uhr",
+      "la hora"
+    ],
+    "einen": [
+      "ein",
+      "un"
+    ],
+    "termin": [
+      "der Termin",
+      "la cita"
+    ],
+    "beim": [
+      "bei + dem",
+      "en el (médico/consulta)"
+    ],
+    "arzt": [
+      "der Arzt",
+      "el médico"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "hat": [
+      "haben",
+      "tiene"
+    ],
+    "seit": [
+      "seit",
+      "desde / hace"
+    ],
+    "drei": [
+      "drei",
+      "tres"
+    ],
+    "tagen": [
+      "der Tag",
+      "el día"
+    ],
+    "leichte": [
+      "leicht",
+      "leves / ligeros"
+    ],
+    "rückenschmerzen": [
+      "die Rückenschmerzen",
+      "el dolor de espalda"
+    ],
+    "wenn": [
+      "wenn",
+      "cuando / si"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "zu": [
+      "zu",
+      "demasiado"
+    ],
+    "lange": [
+      "lang",
+      "mucho tiempo / largo"
+    ],
+    "sitzt": [
+      "sitzen",
+      "se sienta / está sentado"
+    ],
+    "tut": [
+      "weh tun",
+      "duele"
+    ],
+    "es": [
+      "es",
+      "ello"
+    ],
+    "ein": [
+      "ein",
+      "un"
+    ],
+    "bisschen": [
+      "bisschen",
+      "poco"
+    ],
+    "weh": [
+      "weh",
+      "dolor (en weh tun)"
+    ],
+    "der": [
+      "der",
+      "el"
+    ],
+    "arzt": [
+      "der Arzt",
+      "el médico"
+    ],
+    "untersucht": [
+      "untersuchen",
+      "examina / revisa"
+    ],
+    "ihn": [
+      "er",
+      "lo / le"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "sagt": [
+      "sagen",
+      "dice"
+    ],
+    "sie": [
+      "sie",
+      "usted"
+    ],
+    "müssen": [
+      "müssen",
+      "tiene que / debe"
+    ],
+    "mehr": [
+      "viel -> mehr",
+      "más"
+    ],
+    "bewegung": [
+      "die Bewegung",
+      "el movimiento / el ejercicio"
+    ],
+    "machen": [
+      "machen",
+      "hacer"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "weniger": [
+      "wenig -> weniger",
+      "menos"
+    ],
+    "stress": [
+      "der Stress",
+      "el estrés"
+    ],
+    "haben": [
+      "haben",
+      "tener"
+    ],
+    "außerdem": [
+      "außerdem",
+      "además"
+    ],
+    "bekommt": [
+      "bekommen",
+      "recibe / le dan"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "ein": [
+      "ein",
+      "una"
+    ],
+    "rezept": [
+      "das Rezept",
+      "la receta (médica)"
+    ],
+    "für": [
+      "für",
+      "para"
+    ],
+    "eine": [
+      "ein",
+      "una"
+    ],
+    "salbe": [
+      "die Salbe",
+      "la pomada / el ungüento"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "geht": [
+      "gehen",
+      "va"
+    ],
+    "direkt": [
+      "direkt",
+      "directamente"
+    ],
+    "in": [
+      "in",
+      "a / en"
+    ],
+    "die": [
+      "die",
+      "la"
+    ],
+    "apotheke": [
+      "die Apotheke",
+      "la farmacia"
+    ],
+    "nebenan": [
+      "nebenan",
+      "al lado"
+    ],
+    "dort": [
+      "dort",
+      "allí / allá"
+    ],
+    "kostet": [
+      "kosten",
+      "cuesta"
+    ],
+    "die": [
+      "die",
+      "la"
+    ],
+    "salbe": [
+      "die Salbe",
+      "la pomada"
+    ],
+    "acht": [
+      "acht",
+      "ocho"
+    ],
+    "euro": [
+      "der Euro",
+      "el euro"
+    ],
+    "fünfzig": [
+      "fünfzig",
+      "cincuenta"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "die": [
+      "die",
+      "la"
+    ],
+    "apothekerin": [
+      "die Apothekerin",
+      "la farmacéutica"
+    ],
+    "erklärt": [
+      "erklären",
+      "explica"
+    ],
+    "dass": [
+      "dass",
+      "que"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "sie": [
+      "sie",
+      "la (la pomada)"
+    ],
+    "zweimal": [
+      "zweimal",
+      "dos veces"
+    ],
+    "täglich": [
+      "täglich",
+      "al día / diariamente"
+    ],
+    "auftragen": [
+      "auftragen",
+      "aplicar / untar"
+    ],
+    "soll": [
+      "sollen",
+      "debe"
+    ],
+    "am": [
+      "an + dem",
+      "el"
+    ],
+    "mittwochabend": [
+      "der Mittwochabend",
+      "la tarde/noche del miércoles"
+    ],
+    "fährt": [
+      "fahren",
+      "va / se desplaza"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "mit": [
+      "mit",
+      "en / con"
+    ],
+    "der": [
+      "der",
+      "el"
+    ],
+    "s-bahn": [
+      "die S-Bahn",
+      "el tren de cercanías"
+    ],
+    "in": [
+      "in",
+      "a / al"
+    ],
+    "ein": [
+      "ein",
+      "un"
+    ],
+    "großes": [
+      "groß",
+      "grande"
+    ],
+    "einkaufszentrum": [
+      "das Einkaufszentrum",
+      "el centro comercial"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "braucht": [
+      "brauchen",
+      "necesita"
+    ],
+    "eine": [
+      "ein",
+      "una"
+    ],
+    "neue": [
+      "neu",
+      "nueva"
+    ],
+    "computermaus": [
+      "die Computermaus",
+      "el ratón de ordenador"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "ein": [
+      "ein",
+      "una"
+    ],
+    "warmes": [
+      "warm",
+      "cálido / de abrigo"
+    ],
+    "hemd": [
+      "das Hemd",
+      "la camisa"
+    ],
+    "für": [
+      "für",
+      "para"
+    ],
+    "das": [
+      "das",
+      "el"
+    ],
+    "büro": [
+      "das Büro",
+      "la oficina"
+    ],
+    "im": [
+      "in + dem",
+      "en el"
+    ],
+    "elektrogeschäft": [
+      "das Elektrogeschäft",
+      "la tienda de electrónica"
+    ],
+    "vergleicht": [
+      "vergleichen",
+      "compara"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "zwei": [
+      "zwei",
+      "dos"
+    ],
+    "modelle": [
+      "das Modell",
+      "el modelo"
+    ],
+    "dieses": [
+      "dieser",
+      "este"
+    ],
+    "modell": [
+      "das Modell",
+      "el modelo"
+    ],
+    "ist": [
+      "sein",
+      "es"
+    ],
+    "zwar": [
+      "zwar",
+      "ciertamente"
+    ],
+    "teurer": [
+      "teuer -> teurer",
+      "más caro"
+    ],
+    "als": [
+      "als",
+      "que"
+    ],
+    "das": [
+      "das",
+      "el"
+    ],
+    "schwarze": [
+      "schwarz",
+      "negro"
+    ],
+    "aber": [
+      "aber",
+      "pero"
+    ],
+    "es": [
+      "es",
+      "es"
+    ],
+    "ist": [
+      "sein",
+      "es"
+    ],
+    "genauso": [
+      "genauso",
+      "igual de / tan"
+    ],
+    "leicht": [
+      "leicht",
+      "ligero"
+    ],
+    "wie": [
+      "wie",
+      "como"
+    ],
+    "mein": [
+      "mein",
+      "mi"
+    ],
+    "altes": [
+      "alt",
+      "viejo"
+    ],
+    "gerät": [
+      "das Gerät",
+      "el aparato / dispositivo"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "arbeitet": [
+      "arbeiten",
+      "funciona / trabaja"
+    ],
+    "leiser": [
+      "leise -> leiser",
+      "más silencioso"
+    ],
+    "überlegt": [
+      "überlegen",
+      "piensa / reflexiona"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "danach": [
+      "danach",
+      "después"
+    ],
+    "geht": [
+      "gehen",
+      "va"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "in": [
+      "in",
+      "a"
+    ],
+    "ein": [
+      "ein",
+      "una"
+    ],
+    "modegeschäft": [
+      "das Modegeschäft",
+      "la tienda de moda / ropa"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "probiert": [
+      "anprobieren",
+      "se prueba"
+    ],
+    "zwei": [
+      "zwei",
+      "dos"
+    ],
+    "hemden": [
+      "das Hemd",
+      "la camisa"
+    ],
+    "an": [
+      "an",
+      "puesto (en anprobieren)"
+    ],
+    "das": [
+      "das",
+      "la / el"
+    ],
+    "blaue": [
+      "blau",
+      "azul"
+    ],
+    "hemd": [
+      "das Hemd",
+      "la camisa"
+    ],
+    "passt": [
+      "passen",
+      "queda (de talla)"
+    ],
+    "gut": [
+      "gut",
+      "bien"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "ist": [
+      "sein",
+      "es"
+    ],
+    "günstiger": [
+      "günstig -> günstiger",
+      "más barato / económico"
+    ],
+    "als": [
+      "als",
+      "que"
+    ],
+    "das": [
+      "das",
+      "el"
+    ],
+    "graue": [
+      "grau",
+      "gris"
+    ],
+    "hemd": [
+      "das Hemd",
+      "la camisa"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "kauft": [
+      "kaufen",
+      "compra"
+    ],
+    "beide": [
+      "beide",
+      "ambos / los dos"
+    ],
+    "artikel": [
+      "der Artikel",
+      "el artículo"
+    ],
+    "mit": [
+      "mit",
+      "con"
+    ],
+    "karte": [
+      "die Karte",
+      "la tarjeta"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "freut": [
+      "freuen",
+      "se alegra"
+    ],
+    "sich": [
+      "sich",
+      "se"
+    ],
+    "über": [
+      "über",
+      "por"
+    ],
+    "die": [
+      "die",
+      "los"
+    ],
+    "guten": [
+      "gut",
+      "buenos"
+    ],
+    "preise": [
+      "der Preis",
+      "el precio"
+    ],
+    "am": [
+      "an + dem",
+      "el"
+    ],
+    "freitag": [
+      "der Freitag",
+      "el viernes"
+    ],
+    "schickt": [
+      "schicken",
+      "envía / manda"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "um": [
+      "um",
+      "a (las horas)"
+    ],
+    "zehn": [
+      "zehn",
+      "diez"
+    ],
+    "uhr": [
+      "die Uhr",
+      "la hora"
+    ],
+    "den": [
+      "der",
+      "el"
+    ],
+    "fertigen": [
+      "fertig",
+      "listo / terminado"
+    ],
+    "bericht": [
+      "der Bericht",
+      "el informe"
+    ],
+    "per": [
+      "per",
+      "por / mediante"
+    ],
+    "e-mail": [
+      "die E-Mail",
+      "el correo electrónico"
+    ],
+    "an": [
+      "an",
+      "a"
+    ],
+    "den": [
+      "der",
+      "el"
+    ],
+    "kunden": [
+      "der Kunde",
+      "el cliente"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "an": [
+      "an",
+      "a"
+    ],
+    "herrn": [
+      "der Herr",
+      "el señor"
+    ],
+    "weber": [
+      "Weber",
+      "Weber (apellido)"
+    ],
+    "anna": [
+      "Anna",
+      "Anna (nombre propio)"
+    ],
+    "hat": [
+      "haben",
+      "ha"
+    ],
+    "die": [
+      "die",
+      "las"
+    ],
+    "tabellen": [
+      "die Tabelle",
+      "la tabla"
+    ],
+    "noch": [
+      "noch",
+      "todavía / aún"
+    ],
+    "einmal": [
+      "einmal",
+      "una vez"
+    ],
+    "kontrolliert": [
+      "kontrollieren",
+      "controlado / revisado"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "alles": [
+      "alles",
+      "todo"
+    ],
+    "sieht": [
+      "aussehen",
+      "parece / luce"
+    ],
+    "sehr": [
+      "sehr",
+      "muy"
+    ],
+    "gut": [
+      "gut",
+      "bien"
+    ],
+    "aus": [
+      "aus",
+      "bien (en aussehen)"
+    ],
+    "am": [
+      "an + dem",
+      "el"
+    ],
+    "nachmittag": [
+      "der Nachmittag",
+      "la tarde"
+    ],
+    "räumt": [
+      "aufräumen",
+      "ordena / recoge"
+    ],
+    "lukas": [
+      "Lukas",
+      "Lukas (nombre propio)"
+    ],
+    "seinen": [
+      "sein",
+      "su"
+    ],
+    "schreibtisch": [
+      "der Schreibtisch",
+      "el escritorio"
+    ],
+    "auf": [
+      "auf",
+      "ordenado (en aufräumen)"
+    ],
+    "bald": [
+      "bald",
+      "pronto"
+    ],
+    "wird": [
+      "werden",
+      "va a (futuro) / será"
+    ],
+    "das": [
+      "das",
+      "el"
+    ],
+    "wochenende": [
+      "das Wochenende",
+      "el fin de semana"
+    ],
+    "beginnen": [
+      "beginnen",
+      "empezar / comenzar"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "möchte": [
+      "mögen",
+      "quiere / le gustaría"
+    ],
+    "mit": [
+      "mit",
+      "con"
+    ],
+    "freunden": [
+      "der Freund",
+      "el amigo"
+    ],
+    "essen": [
+      "essen",
+      "comer / cenar"
+    ],
+    "gehen": [
+      "gehen",
+      "ir"
+    ],
+    "trotz": [
+      "trotz",
+      "a pesar de"
+    ],
+    "vieler": [
+      "viel",
+      "muchos"
+    ],
+    "termine": [
+      "der Termin",
+      "las citas / compromisos"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "neuer": [
+      "neu",
+      "nuevas"
+    ],
+    "aufgaben": [
+      "die Aufgabe",
+      "las tareas"
+    ],
+    "hat": [
+      "haben",
+      "ha"
+    ],
+    "er": [
+      "er",
+      "él"
+    ],
+    "diese": [
+      "dieser",
+      "esta"
+    ],
+    "woche": [
+      "die Woche",
+      "la semana"
+    ],
+    "viel": [
+      "viel",
+      "mucho"
+    ],
+    "geschafft": [
+      "schaffen",
+      "logrado / hecho"
+    ],
+    "und": [
+      "und",
+      "y"
+    ],
+    "fühlt": [
+      "fühlen",
+      "se siente"
+    ],
+    "sich": [
+      "sich",
+      "se"
+    ],
+    "zufrieden": [
+      "zufrieden",
+      "contento / satisfecho"
+    ]
+  },
+  "parrafos": [
+    {
+      "de": "Es ist Montagmorgen um sechs Uhr und Lukas steht auf, weil er heute viele Aufgaben hat. Zuerst trinkt er einen starken Kaffee in der Küche, dann packt er seine Arbeitstasche mit Laptop, Ladekabel, Notizbuch und einem Regenschirm.",
+      "es": "Es lunes por la mañana a las seis en punto y Lukas se levanta porque hoy tiene muchas tareas. Primero toma un café cargado en la cocina y luego prepara su bolsa de trabajo con el portátil, el cable del cargador, un cuaderno y un paraguas."
+    },
+    {
+      "de": "Draußen regnet es, deshalb fährt er nicht mit dem Fahrrad, sondern nimmt den Bus. An der Bushaltestelle wartet er sieben Minuten auf die Linie zwölf.",
+      "es": "Afuera llueve, por eso no va en bicicleta, sino que coge el autobús. En la parada de autobús espera siete minutos la línea doce."
+    },
+    {
+      "de": "Der Bus ist pünktlich, aber ziemlich voll. Trotzdem findet er einen freien Platz hinten und liest während der Fahrt schnell die neuen Nachrichten auf seinem Handy.",
+      "es": "El autobús es puntual, pero está bastante lleno. A pesar de ello, encuentra un sitio libre atrás y durante el trayecto lee rápido las nuevas noticias en su móvil."
+    },
+    {
+      "de": "Um acht Uhr dreißig kommt er im Büro an. Seine Kollegin Anna sitzt schon am Schreibtisch und schreibt eine wichtige E-Mail an einen Kunden.",
+      "es": "A las ocho y media llega a la oficina. Su compañera Anna ya está sentada en el escritorio y escribe un correo electrónico importante a un cliente."
+    },
+    {
+      "de": "„Morgen müssen wir den Bericht fertig haben“, sagt sie freundlich. Lukas antwortet: „Kein Problem, ich werde heute Nachmittag die Zahlen prüfen und morgen Vormittag schicken wir alles ab.“",
+      "es": "«Mañana tenemos que tener el informe listo», dice ella amablemente. Lukas responde: «Sin problema, esta tarde revisaré las cifras y mañana por la mañana lo enviamos todo»."
+    },
+    {
+      "de": "Um neun Uhr klingelt das Telefon. Lukas nimmt den Hörer ab und spricht mit einem Lieferanten.",
+      "es": "A las nueve suena el teléfono. Lukas descuelga y habla con un proveedor."
+    },
+    {
+      "de": "„Die Bestellung für unsere neuen Bürostühle kommt erst am Donnerstag“, erklärt der Mann am Apparat. Das ist später als geplant, obwohl es ärgerlich bleibt, bleibt Lukas ruhig und fragt: „Können Sie uns wenigstens einen Rabatt geben?“",
+      "es": "«El pedido de nuestras nuevas sillas de oficina llega recién el jueves», explica el hombre al teléfono. Eso es más tarde de lo previsto; aunque sigue siendo molesto, Lukas mantiene la calma y pregunta: «¿Nos pueden dar al menos un descuento?»."
+    },
+    {
+      "de": "„Ja natürlich, wir machen zehn Prozent Preisnachlass“, antwortet der Lieferant. Um elf Uhr haben Lukas und Anna eine Besprechung im Meetingraum.",
+      "es": "«Sí, claro, hacemos un diez por ciento de rebaja», responde el proveedor. A las once, Lukas y Anna tienen una reunión en la sala de reuniones."
+    },
+    {
+      "de": "Ihr Chef, Herr Weber, sagt: „Nächste Woche werden wir ein größeres Projekt starten.“ „Das neue Büro ist zwar kleiner als das alte, aber viel moderner und heller, und am besten gefällt mir die Lage nahe dem Bahnhof“, meint Anna.",
+      "es": "Su jefe, el señor Weber, dice: «La semana próxima iniciaremos un proyecto más grande». «La nueva oficina es ciertamente más pequeña que la antigua, pero mucho más moderna y luminosa, y lo que más me gusta es la ubicación cerca de la estación de tren», opina Anna."
+    },
+    {
+      "de": "Nach der Besprechung machen sie eine kurze Pause. Lukas hat gestern ein leckeres Brot mit Käse und Tomaten gekauft und isst es jetzt in der Kantine.",
+      "es": "Después de la reunión hacen una breve pausa. Lukas compró ayer un pan rico con queso y tomates y se lo come ahora en el comedor."
+    },
+    {
+      "de": "Um vierzehn Uhr verlässt er das Büro für zwei Stunden, denn er möchte wichtige Erledigungen machen. Zuerst geht er zur Bank, um seine Adresse zu ändern und Bargeld abzuheben.",
+      "es": "A las dos de la tarde sale de la oficina durante dos horas, pues quiere hacer gestiones importantes. Primero va al banco para cambiar su dirección y sacar dinero en efectivo."
+    },
+    {
+      "de": "„Guten Tag, ich habe meinen Ausweis und meine Bankkarte dabei“, sagt Lukas am Schalter. Die Mitarbeiterin prüft die Daten und gibt ihm eine Bestätigung; das hat nur zehn Minuten gedauert.",
+      "es": "«Buenos días, traigo mi documento de identidad y mi tarjeta bancaria», dice Lukas en la ventanilla. La empleada revisa los datos y le da una confirmación; eso solo ha durado diez minutos."
+    },
+    {
+      "de": "Danach läuft Lukas ins Rathaus, weil er sich für einen neuen Parkausweis anmelden möchte. Im Wartezimmer sind schon drei Personen, aber die Nummer vierundzwanzig kommt schnell dran.",
+      "es": "Después Lukas camina hasta el ayuntamiento porque quiere registrarse para un nuevo permiso de estacionamiento. En la sala de espera ya hay tres personas, pero le toca rápido el turno al número veinticuatro."
+    },
+    {
+      "de": "Lukas füllt ein Formular aus, bezahlt dreißig Euro Gebühr und bekommt die Quittung. Am Dienstag hat Lukas um zehn Uhr einen Termin beim Arzt.",
+      "es": "Lukas rellena un formulario, paga treinta euros de tasa y recibe el recibo. El martes, Lukas tiene a las diez de la mañana una cita con el médico."
+    },
+    {
+      "de": "Er hat seit drei Tagen leichte Rückenschmerzen; wenn er zu lange sitzt, tut es ein bisschen weh. Der Arzt untersucht ihn und sagt: „Sie müssen mehr Bewegung machen und weniger Stress haben.“",
+      "es": "Hace tres días que tiene leves dolores de espalda; cuando se sienta demasiado tiempo, le duele un poco. El médico lo examina y le dice: «Tiene que hacer más movimiento y tener menos estrés»."
+    },
+    {
+      "de": "Außerdem bekommt er ein Rezept für eine Salbe und geht direkt in die Apotheke nebenan. Dort kostet die Salbe acht Euro fünfzig und die Apothekerin erklärt, dass er sie zweimal täglich auftragen soll.",
+      "es": "Además le dan una receta para una pomada y va directamente a la farmacia de al lado. Allí la pomada cuesta ocho euros cincuenta y la farmacéutica le explica que debe aplicarla dos veces al día."
+    },
+    {
+      "de": "Am Mittwochabend fährt Lukas mit der S-Bahn in ein großes Einkaufszentrum. Er braucht eine neue Computermaus und ein warmes Hemd für das Büro.",
+      "es": "El miércoles por la tarde-noche Lukas va en el tren de cercanías a un centro comercial grande. Necesita un ratón de ordenador nuevo y una camisa de abrigo para la oficina."
+    },
+    {
+      "de": "Im Elektrogeschäft vergleicht er zwei Modelle. „Dieses Modell ist zwar teurer als das schwarze, aber es ist genauso leicht wie mein altes Gerät und arbeitet leiser“, überlegt er.",
+      "es": "En la tienda de electrónica compara dos modelos. «Este modelo es ciertamente más caro que el negro, pero es igual de ligero que mi aparato viejo y funciona más silencioso», reflexiona."
+    },
+    {
+      "de": "Danach geht er in ein Modegeschäft und probiert zwei Hemden an. Das blaue Hemd passt gut und ist günstiger als das graue Hemd.",
+      "es": "Después va a una tienda de ropa y se prueba dos camisas. La camisa azul queda bien y es más barata que la camisa gris."
+    },
+    {
+      "de": "Lukas kauft beide Artikel mit Karte und freut sich über die guten Preise. Am Freitag schickt Lukas um zehn Uhr den fertigen Bericht per E-Mail an den Kunden und an Herrn Weber.",
+      "es": "Lukas compra ambos artículos con tarjeta y se alegra por los buenos precios. El viernes, Lukas envía a las diez de la mañana el informe terminado por correo electrónico al cliente y al señor Weber."
+    },
+    {
+      "de": "Anna hat die Tabellen noch einmal kontrolliert und alles sieht sehr gut aus. Am Nachmittag räumt Lukas seinen Schreibtisch auf.",
+      "es": "Anna ha revisado las tablas una vez más y todo tiene muy buen aspecto. Por la tarde Lukas ordena su escritorio."
+    },
+    {
+      "de": "Bald wird das Wochenende beginnen und er möchte mit Freunden essen gehen. Trotz vieler Termine und neuer Aufgaben hat er diese Woche viel geschafft und fühlt sich zufrieden.",
+      "es": "Pronto empezará el fin de semana y quiere ir a comer con amigos. A pesar de muchas citas y nuevas tareas, esta semana ha logrado mucho y se siente satisfecho."
+    }
+  ]
+}
