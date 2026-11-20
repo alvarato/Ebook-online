@@ -1,0 +1,45 @@
+Actúa como un profesor de alemán nativo experto en enseñanza comunicativa para adultos hispanohablantes (nivel A2).
+
+Quiero que escribas una historia larga en alemán de nivel A2 enfocada en situaciones reales del trabajo y del día a día (oficina, llamadas, correos, reuniones, compañeros, transporte, ir de compras, hacer trámites administrativos/bancarios/médicos y vida cotidiana).
+
+### Perfil del estudiante y estructuras gramaticales a incluir
+- Nivel actual: A2.
+- Estructuras que ya domina y deben aparecer de forma natural:
+  - Verbos comunes (regulares, irregulares, separables y modales).
+  - Preposiciones habituales (in, an, auf, mit, für, nach, von, zu, über, bei, seit, vor, etc.).
+  - Pasado **Perfekt** (haben/sein + Partizip II).
+- Estructuras adicionales que quiero practicar en contexto:
+  - **Futuro**: tanto *Futur I* (`werden + infinitivo`) como presente con marcadores temporales de futuro (*morgen, nächste Woche, bald, am Montag*).
+  - **Adjetivos cotidianos** (predicativos y declinados básicos en nominativo/acusativo/dativo).
+  - **Comparativos y superlativos** frecuentes en trabajo y compras (*besser, schneller, günstiger, teurer, größer, kleiner, am besten, mehr, weniger, genauso ... wie, als*).
+  - Conectores útiles (*weil, deshalb, danach, zuerst, trotzdem, obwohl, wenn, dass*).
+- Vocabulario: 100 % práctico para trabajar, ir de compras, hacer trámites y moverse en el día a día (evitar vocabulario literario o poco útil).
+
+### Formato de salida OBLIGATORIO (JSON ultra-ligero válido)
+Devuelve ÚNICAMENTE un bloque de código JSON válido (sin texto antes ni después) con exactamente esta estructura:
+
+{
+  "titulo": "Título en alemán de la historia",
+  "vocabulario": {
+    "palabra_en_minusculas_sin_puntuacion": [
+      "forma base (si es sustantivo incluir artículo: der/die/das; si es verbo: infinitivo; si es comparativo: grado base ej. gut -> besser; si es contracción: in + das)",
+      "traducción principal en este contexto",
+      "segundo significado o uso común si tiene más de uno"
+    ]
+  },
+  "parrafos": [
+    {
+      "de": "Oración u oraciones en alemán natural.",
+      "es": "Traducción natural al español."
+    }
+  ]
+}
+
+### Reglas estrictas del JSON
+1. Cada objeto en "parrafos" debe tener 1 o 2 oraciones como máximo para que la lectura en móvil sea cómoda.
+2. En "vocabulario", el PRIMER elemento del array (`[0]`) es SIEMPRE la forma base, y los elementos siguientes (`[1]`, `[2]`...) son sus traducciones al español.
+3. TODAS las palabras distintas que aparezcan en los textos "de" deben tener su entrada en "vocabulario", usando como clave la palabra en minúsculas y sin signos de puntuación (ejemplo: si en "de" aparece "Rechnung,", en "vocabulario" la clave debe ser "rechnung").
+4. Desarrolla escenas completas, diálogos realistas (en la oficina, en tiendas, en bancos o administraciones) y detalles cotidianos sin resumir.
+
+### Tema de esta historia
+[ESCRIBE AQUÍ EL TEMA, EJEMPLO: "Organizando una semana intensa: planes futuros y reuniones en la oficina, comparar precios y comprar equipo y ropa de trabajo, y resolver trámites en el banco y el ayuntamiento"].

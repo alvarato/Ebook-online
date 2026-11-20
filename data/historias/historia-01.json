@@ -1,0 +1,54 @@
+{
+  "titulo": "Ein kurzer Anruf im Büro",
+  "vocabulario": {
+    "heute": ["heute", "hoy"],
+    "habe": ["haben", "he (auxiliar Perfekt)", "tengo"],
+    "ich": ["ich", "yo"],
+    "am": ["an + dem", "por la / en la", "en el"],
+    "vormittag": ["der Vormittag", "mañana (hasta mediodía)"],
+    "von": ["von", "desde", "de"],
+    "zu": ["zu", "a / en", "hacia", "demasiado"],
+    "hause": ["das Haus", "casa (zu Hause = en casa)"],
+    "gearbeitet": ["arbeiten", "trabajado"],
+    "und": ["und", "y"],
+    "zwei": ["zwei", "dos"],
+    "anrufe": ["der Anruf", "llamadas (telefónicas)"],
+    "gemacht": ["machen", "hecho", "realizado"],
+    "eine": ["ein", "una", "un"],
+    "kollegin": ["die Kollegin", "compañera (de trabajo)"],
+    "hat": ["haben", "ha (auxiliar Perfekt)", "tiene"],
+    "gefragt": ["fragen", "preguntado"],
+    "ob": ["ob", "si (pregunta indirecta / duda)"],
+    "der": ["der", "el", "la (dativo/genitivo singular)"],
+    "kunde": ["der Kunde", "cliente"],
+    "die": ["die", "los / las", "la"],
+    "daten": ["das Datum (pl. Daten)", "datos"],
+    "schon": ["schon", "ya"],
+    "geschickt": ["schicken", "enviado", "mandado"],
+    "danach": ["danach", "después", "luego"],
+    "bin": ["sein", "he (auxiliar movimiento)", "soy / estoy"],
+    "ins": ["in + das", "a la / hacia la", "al"],
+    "büro": ["das Büro", "oficina"],
+    "gefahren": ["fahren", "ido (en vehículo / transporte)", "conducido"],
+    "wir": ["wir", "nosotros / nosotras"],
+    "haben": ["haben", "hemos", "tenemos"],
+    "über": ["über", "sobre / acerca de", "por encima de", "más de"],
+    "den": ["der", "el (acusativo masculino)", "a los (dativo plural)"],
+    "wochenplan": ["der Wochenplan", "plan semanal"],
+    "gesprochen": ["sprechen", "hablado"]
+  },
+  "parrafos": [
+    {
+      "de": "Heute habe ich am Vormittag von zu Hause gearbeitet und zwei Anrufe gemacht.",
+      "es": "Hoy he trabajado desde casa por la mañana y he hecho dos llamadas."
+    },
+    {
+      "de": "Eine Kollegin hat gefragt, ob der Kunde die Daten schon geschickt hat.",
+      "es": "Una compañera ha preguntado si el cliente ya ha enviado los datos."
+    },
+    {
+      "de": "Danach bin ich ins Büro gefahren und wir haben über den Wochenplan gesprochen.",
+      "es": "Después he ido a la oficina y hemos hablado sobre el plan de la semana."
+    }
+  ]
+}
