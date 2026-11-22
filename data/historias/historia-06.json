@@ -1,0 +1,410 @@
+{
+  "titulo": "Eine Padelstunde mit Marco",
+  "vocabulario": {
+    "ich": ["ich", "yo"],
+    "heiße": ["heißen", "llamarse"],
+    "marco": ["Marco", "Marco (nombre propio)"],
+    "und": ["und", "y"],
+    "arbeite": ["arbeiten", "trabajar"],
+    "als": ["als", "como (profesión)", "que (comparativo)"],
+    "trainer": ["der Trainer", "entrenador, profesor"],
+    "in": ["in", "en"],
+    "einem": ["ein", "un (dativo)"],
+    "sportzentrum": ["das Sportzentrum", "centro deportivo"],
+    "heute": ["heute", "hoy"],
+    "habe": ["haben", "tengo", "he (auxiliar de Perfekt)"],
+    "um": ["um", "a (con horas)", "alrededor de"],
+    "zehn": ["zehn", "diez"],
+    "uhr": ["die Uhr", "hora, en punto", "reloj"],
+    "eine": ["ein", "una"],
+    "stunde": ["die Stunde", "clase, hora"],
+    "mit": ["mit", "con"],
+    "drei": ["drei", "tres"],
+    "schülern": ["der Schüler", "alumnos (dativo plural)"],
+    "zuerst": ["zuerst", "primero"],
+    "bereite": ["vorbereiten", "preparar"],
+    "den": ["der", "el (acusativo masculino)", "los (dativo plural)"],
+    "platz": ["der Platz", "pista, campo", "lugar"],
+    "vor": ["vor", "(prefijo de vorbereiten)", "delante de, antes de"],
+    "schon": ["schon", "ya"],
+    "die": ["die", "la", "las / los"],
+    "bälle": ["der Ball", "pelotas, bolas"],
+    "schläger": ["der Schläger", "pala, raqueta", "palas"],
+    "geholt": ["holen", "traído, buscado (Partizip II)"],
+    "schüler": ["der Schüler", "alumno", "alumnos"],
+    "kommen": ["kommen", "venir, llegar"],
+    "pünktlich": ["pünktlich", "puntual"],
+    "sie": ["sie", "ella, ellos / ellas", "usted (formal)"],
+    "heißen": ["heißen", "llamarse (ellos)"],
+    "anna": ["Anna", "Anna (nombre propio)"],
+    "tim": ["Tim", "Tim (nombre propio)"],
+    "sara": ["Sara", "Sara (nombre propio)"],
+    "guten": ["gut", "buen / buenos"],
+    "morgen": ["der Morgen", "mañana (parte del día)", "mañana (día siguiente)"],
+    "wie": ["wie", "cómo", "como, tan"],
+    "geht": ["gehen", "ir", "funcionar (wie geht es = cómo está)"],
+    "es": ["es", "lo, ello"],
+    "euch": ["ihr", "a vosotros (acusativo/dativo)"],
+    "gut": ["gut", "bien"],
+    "danke": ["danke", "gracias"],
+    "wir": ["wir", "nosotros"],
+    "sind": ["sein", "somos, son, están"],
+    "ein": ["ein", "un"],
+    "bisschen": ["das Bisschen", "un poco"],
+    "nervös": ["nervös", "nervioso"],
+    "keine": ["kein", "ninguna, no (negación)"],
+    "angst": ["die Angst", "miedo"],
+    "laufen": ["laufen", "correr", "caminar"],
+    "zwei": ["zwei", "dos"],
+    "minuten": ["die Minute", "minutos"],
+    "weil": ["weil", "porque"],
+    "das": ["das", "el / lo (neutro)", "eso"],
+    "aufwärmen": ["das Aufwärmen", "calentamiento", "calentar"],
+    "wichtig": ["wichtig", "importante"],
+    "ist": ["sein", "es, está"],
+    "danach": ["danach", "después"],
+    "erkläre": ["erklären", "explicar"],
+    "grundposition": ["die Grundposition", "posición básica"],
+    "man": ["man", "uno, se (impersonal)"],
+    "steht": ["stehen", "estar de pie", "estar parado"],
+    "füßen": ["der Fuß", "pies (dativo plural)"],
+    "breit": ["breit", "ancho, separado"],
+    "knie": ["das Knie", "rodillas, rodilla"],
+    "leicht": ["leicht", "ligeramente", "ligero, fácil"],
+    "gebeugt": ["beugen", "flexionado (Partizip II)"],
+    "der": ["der", "el (masculino)", "de la"],
+    "körper": ["der Körper", "cuerpo"],
+    "dem": ["der", "el (dativo masculino/neutro)"],
+    "augen": ["das Auge", "ojos"],
+    "immer": ["immer", "siempre"],
+    "beim": ["bei + dem", "en el, junto al"],
+    "ball": ["der Ball", "pelota"],
+    "jetzt": ["jetzt", "ahora"],
+    "zeige": ["zeigen", "mostrar, enseñar"],
+    "vorhand": ["die Vorhand", "derecha (golpe)"],
+    "drehe": ["drehen", "girar"],
+    "oberkörper": ["der Oberkörper", "tronco, parte superior del cuerpo"],
+    "schlage": ["schlagen", "golpear"],
+    "nach": ["nach", "hacia, a (destino)", "después de"],
+    "vorne": ["vorne", "adelante, delante"],
+    "einfacher": ["einfach", "más fácil"],
+    "rückhand": ["die Rückhand", "revés (golpe)"],
+    "sage": ["sagen", "decir"],
+    "aber": ["aber", "pero"],
+    "ihr": ["ihr", "vosotros"],
+    "werdet": ["werden", "vais a, seréis (futuro)"],
+    "beide": ["beide", "ambos, los dos"],
+    "schläge": ["der Schlag", "golpes"],
+    "lernen": ["lernen", "aprender"],
+    "spielt": ["spielen", "jugar, golpea"],
+    "zu": ["zu", "demasiado", "a, hacia"],
+    "langsam": ["langsam", "lento, despacio"],
+    "fällt": ["fallen", "caer"],
+    "ins": ["in + das", "en la / en el"],
+    "netz": ["das Netz", "red"],
+    "er": ["er", "él"],
+    "du": ["du", "tú"],
+    "musst": ["müssen", "tienes que"],
+    "schneller": ["schnell", "más rápido"],
+    "schlagen": ["schlagen", "golpear"],
+    "mehr": ["viel", "más"],
+    "kraft": ["die Kraft", "fuerza"],
+    "nutzen": ["nutzen", "usar, aprovechar"],
+    "okay": ["okay", "vale, de acuerdo"],
+    "versuche": ["versuchen", "intentar"],
+    "noch": ["noch", "todavía", "otra (noch einmal = otra vez)"],
+    "einmal": ["einmal", "una vez"],
+    "diesmal": ["diesmal", "esta vez"],
+    "schlag": ["der Schlag", "golpe"],
+    "viel": ["viel", "mucho"],
+    "besser": ["gut", "mejor"],
+    "sehr": ["sehr", "muy"],
+    "war": ["sein", "era, estaba, fue"],
+    "genau": ["genau", "exactamente"],
+    "richtig": ["richtig", "correcto"],
+    "üben": ["üben", "practicar"],
+    "hat": ["haben", "tiene", "ha (auxiliar de Perfekt)"],
+    "letzte": ["letzt", "última, pasada"],
+    "woche": ["die Woche", "semana"],
+    "geübt": ["üben", "practicado (Partizip II)"],
+    "deshalb": ["deshalb", "por eso"],
+    "fragt": ["fragen", "preguntar"],
+    "halte": ["halten", "sujetar, agarrar"],
+    "bei": ["bei", "en, con (situación)"],
+    "hältst": ["halten", "sujetas, agarras"],
+    "ihn": ["er", "lo (acusativo)"],
+    "beiden": ["beide", "ambos, las dos"],
+    "händen": ["die Hand", "manos (dativo plural)"],
+    "drehst": ["drehen", "giras"],
+    "schulter": ["die Schulter", "hombro"],
+    "zur": ["zu + der", "a la, hacia la"],
+    "seite": ["die Seite", "lado"],
+    "dann": ["dann", "entonces, luego"],
+    "volley": ["der Volley", "volea"],
+    "am": ["an + dem", "en el, junto al", "por (la mañana), el (día)"],
+    "schnell": ["schnell", "rápido"],
+    "sein": ["sein", "ser, estar"],
+    "denn": ["denn", "porque, pues"],
+    "kommt": ["kommen", "viene, llega"],
+    "kürzer": ["kurz", "más corto"],
+    "brauchst": ["brauchen", "necesitas"],
+    "nur": ["nur", "solo"],
+    "wenig": ["wenig", "poco"],
+    "bewegung": ["die Bewegung", "movimiento"],
+    "bandeja": ["die Bandeja", "bandeja (golpe de padel)"],
+    "wichtiger": ["wichtig", "importante (declinado)"],
+    "im": ["in + dem", "en el"],
+    "padel": ["das Padel", "pádel"],
+    "über": ["über", "sobre, por encima de", "acerca de"],
+    "kopf": ["der Kopf", "cabeza"],
+    "nicht": ["nicht", "no"],
+    "so": ["so", "tan, así"],
+    "hart": ["hart", "fuerte, duro"],
+    "einen": ["ein", "un (acusativo masculino)"],
+    "smash": ["der Smash", "remate"],
+    "sicherer": ["sicher", "más seguro"],
+    "spieler": ["der Spieler", "jugadores"],
+    "viele": ["viel", "muchos"],
+    "spielen": ["spielen", "jugar"],
+    "öfter": ["oft", "más a menudo"],
+    "auch": ["auch", "también"],
+    "wand": ["die Wand", "pared"],
+    "darf": ["dürfen", "puede, se permite"],
+    "boden": ["der Boden", "suelo"],
+    "an": ["an", "en, contra", "a"],
+    "springen": ["springen", "rebotar", "saltar"],
+    "schwierig": ["schwierig", "difícil"],
+    "wenn": ["wenn", "si, cuando"],
+    "wartet": ["warten", "espera"],
+    "gespielt": ["spielen", "jugado (Partizip II)"],
+    "von": ["von", "de, desde"],
+    "lacht": ["lachen", "reír"],
+    "geschafft": ["schaffen", "conseguido (Partizip II)"],
+    "einer": ["ein", "una (dativo femenino)"],
+    "machen": ["machen", "hacer"],
+    "kurze": ["kurz", "corta, breve"],
+    "trinken": ["trinken", "beber"],
+    "wasser": ["das Wasser", "agua"],
+    "heiß": ["heiß", "caliente", "caluroso"],
+    "frage": ["fragen", "pregunto"],
+    "anstrengend": ["anstrengend", "agotador, cansado"],
+    "spaß": ["der Spaß", "diversión"],
+    "gemacht": ["machen", "hecho (Partizip II)"],
+    "sagt": ["sagen", "dice"],
+    "sprechen": ["sprechen", "hablar"],
+    "termin": ["der Termin", "cita, horario"],
+    "nächste": ["nächst", "próxima"],
+    "werden": ["werden", "(auxiliar de futuro)", "vamos a"],
+    "aufschlag": ["der Aufschlag", "saque"],
+    "taktik": ["die Taktik", "táctica"],
+    "wann": ["wann", "cuándo"],
+    "kurs": ["der Kurs", "curso, clase"],
+    "montag": ["der Montag", "lunes"],
+    "oder": ["oder", "o"],
+    "dienstag": ["der Dienstag", "martes"],
+    "achtzehn": ["achtzehn", "dieciocho"],
+    "preis": ["der Preis", "precio"],
+    "bleibt": ["bleiben", "quedarse, seguir siendo"],
+    "gleich": ["gleich", "igual"],
+    "zwanzig": ["zwanzig", "veinte"],
+    "euro": ["der Euro", "euros"],
+    "pro": ["pro", "por"],
+    "möchte": ["mögen (möchte)", "querer, desear"],
+    "neuen": ["neu", "nueva / nuevo (declinado)"],
+    "kaufen": ["kaufen", "comprar"],
+    "welcher": ["welcher", "cuál, qué"],
+    "für": ["für", "para, por"],
+    "anfänger": ["der Anfänger", "principiante, principiantes"],
+    "leichte": ["leicht", "ligero (declinado)"],
+    "günstiger": ["günstig", "más barato"],
+    "bequemer": ["bequem", "más cómodo"],
+    "schwere": ["schwer", "pesado (declinado)"],
+    "teurer": ["teuer", "más caro"],
+    "ende": ["das Ende", "final"],
+    "habt": ["haben", "habéis, tenéis"],
+    "gelernt": ["lernen", "aprendido (Partizip II)"],
+    "bestimmt": ["bestimmt", "seguro, seguramente"],
+    "muskelkater": ["der Muskelkater", "agujetas"],
+    "haben": ["haben", "tener, haber"],
+    "räume": ["aufräumen", "ordenar, recoger"],
+    "auf": ["auf", "(prefijo de aufräumen / aufstehen)", "sobre, en"],
+    "schreibe": ["schreiben", "escribir"],
+    "nachricht": ["die Nachricht", "mensaje"],
+    "chef": ["der Chef", "jefe"],
+    "mein": ["mein", "mi"],
+    "beruf": ["der Beruf", "profesión"],
+    "genauso": ["genauso", "igual de"],
+    "schön": ["schön", "bonito, agradable"],
+    "obwohl": ["obwohl", "aunque"],
+    "oft": ["oft", "a menudo"],
+    "müde": ["müde", "cansado"],
+    "bin": ["sein", "soy, estoy"],
+    "besten": ["gut", "mejor (am besten = lo que más)"],
+    "gefällt": ["gefallen", "gustar"],
+    "mir": ["ich", "me, a mí (dativo)"],
+    "dass": ["dass", "que (conjunción)"],
+    "jede": ["jeder", "cada"],
+    "abend": ["der Abend", "tarde-noche, noche"],
+    "gehe": ["gehen", "ir"],
+    "hause": ["das Haus", "casa (nach Hause = a casa)"],
+    "werde": ["werden", "(auxiliar de futuro)", "voy a"],
+    "wieder": ["wieder", "otra vez"],
+    "früh": ["früh", "temprano"],
+    "aufstehen": ["aufstehen", "levantarse"],
+    "unterrichten": ["unterrichten", "dar clase, enseñar"]
+  },
+  "parrafos": [
+    {
+      "de": "Ich heiße Marco und arbeite als Trainer in einem Sportzentrum.",
+      "es": "Me llamo Marco y trabajo como entrenador en un centro deportivo."
+    },
+    {
+      "de": "Heute habe ich um zehn Uhr eine Stunde mit drei Schülern.",
+      "es": "Hoy tengo a las diez una clase con tres alumnos."
+    },
+    {
+      "de": "Zuerst bereite ich den Platz vor. Ich habe schon die Bälle und die Schläger geholt.",
+      "es": "Primero preparo la pista. Ya he traído las pelotas y las palas."
+    },
+    {
+      "de": "Die Schüler kommen pünktlich. Sie heißen Anna, Tim und Sara.",
+      "es": "Los alumnos llegan puntuales. Se llaman Anna, Tim y Sara."
+    },
+    {
+      "de": "„Guten Morgen! Wie geht es euch?“",
+      "es": "«¡Buenos días! ¿Cómo estáis?»"
+    },
+    {
+      "de": "„Gut, danke. Wir sind ein bisschen nervös.“",
+      "es": "«Bien, gracias. Estamos un poco nerviosos.»"
+    },
+    {
+      "de": "„Keine Angst! Zuerst laufen wir zwei Minuten, weil das Aufwärmen wichtig ist.“",
+      "es": "«¡No tengáis miedo! Primero corremos dos minutos, porque el calentamiento es importante.»"
+    },
+    {
+      "de": "Danach erkläre ich die Grundposition. Man steht mit den Füßen breit und die Knie sind leicht gebeugt.",
+      "es": "Después explico la posición básica. Se está de pie con los pies separados y las rodillas ligeramente flexionadas."
+    },
+    {
+      "de": "„Der Schläger ist vor dem Körper, und die Augen sind immer beim Ball.“",
+      "es": "«La pala está delante del cuerpo y los ojos están siempre en la pelota.»"
+    },
+    {
+      "de": "Jetzt zeige ich die Vorhand. Ich drehe den Oberkörper und schlage den Ball nach vorne.",
+      "es": "Ahora enseño la derecha. Giro el tronco y golpeo la pelota hacia delante."
+    },
+    {
+      "de": "„Die Vorhand ist einfacher als die Rückhand“, sage ich. „Aber ihr werdet beide Schläge lernen.“",
+      "es": "«La derecha es más fácil que el revés», digo. «Pero vais a aprender los dos golpes.»"
+    },
+    {
+      "de": "Anna spielt den Ball zu langsam, und er fällt ins Netz.",
+      "es": "Anna golpea la pelota demasiado despacio y esta cae en la red."
+    },
+    {
+      "de": "„Du musst schneller schlagen und mehr Kraft nutzen.“",
+      "es": "«Tienes que golpear más rápido y usar más fuerza.»"
+    },
+    {
+      "de": "„Okay, ich versuche es noch einmal.“",
+      "es": "«Vale, lo intento otra vez.»"
+    },
+    {
+      "de": "Diesmal ist der Schlag viel besser. „Sehr gut! Das war genau richtig!“",
+      "es": "Esta vez el golpe es mucho mejor. «¡Muy bien! ¡Eso estuvo exactamente correcto!»"
+    },
+    {
+      "de": "Jetzt üben wir die Rückhand. Tim hat die Rückhand schon letzte Woche geübt, deshalb ist er besser als Sara.",
+      "es": "Ahora practicamos el revés. Tim ya practicó el revés la semana pasada, por eso es mejor que Sara."
+    },
+    {
+      "de": "Sara fragt: „Wie halte ich den Schläger bei der Rückhand?“",
+      "es": "Sara pregunta: «¿Cómo agarro la pala en el revés?»"
+    },
+    {
+      "de": "„Du hältst ihn mit beiden Händen und drehst die Schulter zur Seite.“",
+      "es": "«La agarras con las dos manos y giras el hombro hacia el lado.»"
+    },
+    {
+      "de": "Dann erkläre ich den Volley am Netz. „Am Netz musst du schnell sein, denn der Ball kommt sehr schnell.“",
+      "es": "Luego explico la volea en la red. «En la red tienes que ser rápido, porque la pelota llega muy rápido.»"
+    },
+    {
+      "de": "„Der Schlag ist kürzer als die Vorhand. Du brauchst nur wenig Bewegung.“",
+      "es": "«El golpe es más corto que la derecha. Solo necesitas poco movimiento.»"
+    },
+    {
+      "de": "Danach kommt die Bandeja, ein wichtiger Schlag im Padel. Man spielt sie über dem Kopf, aber nicht so hart wie einen Smash.",
+      "es": "Después viene la bandeja, un golpe importante en el pádel. Se juega por encima de la cabeza, pero no tan fuerte como un remate."
+    },
+    {
+      "de": "„Die Bandeja ist sicherer als der Smash“, erkläre ich. „Deshalb spielen viele Spieler sie öfter.“",
+      "es": "«La bandeja es más segura que el remate», explico. «Por eso muchos jugadores la juegan más a menudo.»"
+    },
+    {
+      "de": "Ich zeige auch die Wand. Im Padel darf der Ball zuerst auf den Boden und danach an die Wand springen.",
+      "es": "También enseño la pared. En el pádel la pelota puede botar primero en el suelo y después rebotar en la pared."
+    },
+    {
+      "de": "„Das ist schwierig, aber wenn man wartet, ist es einfacher.“",
+      "es": "«Es difícil, pero si uno espera, es más fácil.»"
+    },
+    {
+      "de": "Sara hat den Ball von der Wand gespielt und lacht.",
+      "es": "Sara ha jugado la pelota de la pared y se ríe."
+    },
+    {
+      "de": "„Ich habe es geschafft!“",
+      "es": "«¡Lo he conseguido!»"
+    },
+    {
+      "de": "Nach einer Stunde machen wir eine kurze Pause. Wir trinken Wasser, weil es heiß ist.",
+      "es": "Después de una hora hacemos un descanso corto. Bebemos agua porque hace calor."
+    },
+    {
+      "de": "„Wie war die Stunde?“, frage ich. „Sie war anstrengend, aber sie hat viel Spaß gemacht“, sagt Tim.",
+      "es": "«¿Qué tal fue la clase?», pregunto. «Fue agotadora, pero ha sido muy divertida», dice Tim."
+    },
+    {
+      "de": "Dann sprechen wir über den Termin. „Nächste Woche werden wir Aufschlag und Taktik üben.“",
+      "es": "Luego hablamos del horario. «La próxima semana vamos a practicar el saque y la táctica.»"
+    },
+    {
+      "de": "Anna fragt: „Wann ist der Kurs? Am Montag oder am Dienstag?“",
+      "es": "Anna pregunta: «¿Cuándo es la clase? ¿El lunes o el martes?»"
+    },
+    {
+      "de": "„Am Dienstag um achtzehn Uhr. Der Preis bleibt gleich: zwanzig Euro pro Stunde.“",
+      "es": "«El martes a las dieciocho horas. El precio sigue igual: veinte euros por hora.»"
+    },
+    {
+      "de": "Sara möchte einen neuen Schläger kaufen. „Welcher ist besser für Anfänger?“",
+      "es": "Sara quiere comprar una pala nueva. «¿Cuál es mejor para principiantes?»"
+    },
+    {
+      "de": "„Der leichte Schläger ist günstiger und bequemer. Der schwere ist teurer, aber er hat mehr Kraft.“",
+      "es": "«La pala ligera es más barata y más cómoda. La pesada es más cara, pero tiene más fuerza.»"
+    },
+    {
+      "de": "Am Ende sage ich: „Heute habt ihr viel gelernt. Morgen werdet ihr bestimmt Muskelkater haben!“",
+      "es": "Al final digo: «Hoy habéis aprendido mucho. ¡Mañana seguro que tendréis agujetas!»"
+    },
+    {
+      "de": "Danach räume ich den Platz auf. Dann schreibe ich eine Nachricht an den Chef.",
+      "es": "Después recojo la pista. Luego escribo un mensaje al jefe."
+    },
+    {
+      "de": "Mein Beruf ist genauso schön wie anstrengend, obwohl ich oft müde bin.",
+      "es": "Mi profesión es tan bonita como agotadora, aunque a menudo estoy cansado."
+    },
+    {
+      "de": "Am besten gefällt mir, dass die Schüler jede Woche besser spielen.",
+      "es": "Lo que más me gusta es que los alumnos juegan mejor cada semana."
+    },
+    {
+      "de": "Am Abend gehe ich nach Hause. Morgen werde ich wieder früh aufstehen und neue Schüler unterrichten.",
+      "es": "Por la noche voy a casa. Mañana me levantaré temprano otra vez y daré clase a alumnos nuevos."
+    }
+  ]
+}

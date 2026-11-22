@@ -1,0 +1,355 @@
+{
+  "titulo": "Ein Tag im Café",
+  "vocabulario": {
+    "ich": ["ich", "yo"],
+    "heiße": ["heißen", "llamarse", "ser llamado"],
+    "jonas": ["Jonas", "Jonas (nombre propio)"],
+    "und": ["und", "y"],
+    "arbeite": ["arbeiten", "trabajar"],
+    "in": ["in", "en", "dentro de"],
+    "im": ["in + dem", "en el"],
+    "einem": ["ein", "un (dativo)"],
+    "café": ["das Café", "cafetería", "café"],
+    "berlin": ["Berlin", "Berlín"],
+    "mein": ["mein", "mi"],
+    "meine": ["mein", "mi (femenino/plural)"],
+    "tag": ["der Tag", "día"],
+    "beginnt": ["beginnen", "empezar", "comenzar"],
+    "früh": ["früh", "temprano"],
+    "weil": ["weil", "porque"],
+    "das": ["das", "el / lo (neutro)", "eso"],
+    "um": ["um", "a (con horas)", "alrededor de"],
+    "sieben": ["sieben", "siete"],
+    "uhr": ["die Uhr", "hora, en punto", "reloj"],
+    "öffnet": ["öffnen", "abrir"],
+    "zuerst": ["zuerst", "primero"],
+    "stehe": ["aufstehen", "levantarse"],
+    "auf": ["auf", "(prefijo de aufstehen)", "sobre, en"],
+    "fünf": ["fünf", "cinco"],
+    "danach": ["danach", "después"],
+    "fahre": ["fahren", "ir (en vehículo)", "conducir"],
+    "mit": ["mit", "con"],
+    "der": ["der", "el (masculino)", "de la / del"],
+    "straßenbahn": ["die Straßenbahn", "tranvía"],
+    "zur": ["zu + der", "a la"],
+    "arbeit": ["die Arbeit", "trabajo"],
+    "am": ["an + dem", "por (la mañana), en (el día)", "en el"],
+    "morgen": ["der Morgen", "mañana (parte del día)", "mañana (día siguiente)"],
+    "ist": ["sein", "es, está"],
+    "die": ["die", "la", "las / los"],
+    "sehr": ["sehr", "muy"],
+    "voll": ["voll", "lleno"],
+    "aber": ["aber", "pero"],
+    "bus": ["der Bus", "autobús"],
+    "langsamer": ["langsam", "más lento"],
+    "begrüße": ["begrüßen", "saludar"],
+    "kollegin": ["die Kollegin", "compañera de trabajo"],
+    "lena": ["Lena", "Lena (nombre propio)"],
+    "sie": ["sie", "ella / ellas", "usted (formal)"],
+    "hat": ["haben", "tiene", "ha (auxiliar de Perfekt)"],
+    "schon": ["schon", "ya"],
+    "maschine": ["die Maschine", "máquina"],
+    "eingeschaltet": ["einschalten", "encendido (Partizip II)"],
+    "guten": ["gut", "buen / buenos"],
+    "wie": ["wie", "cómo", "como"],
+    "geht": ["gehen", "ir", "funcionar"],
+    "es": ["es", "lo / ello"],
+    "dir": ["du", "a ti (dativo)"],
+    "gut": ["gut", "bien"],
+    "danke": ["danke", "gracias"],
+    "heute": ["heute", "hoy"],
+    "haben": ["haben", "tener", "haber"],
+    "wir": ["wir", "nosotros"],
+    "viel": ["viel", "mucho"],
+    "zu": ["zu", "a, hacia", "(con infinitivo)"],
+    "tun": ["tun", "hacer"],
+    "muss": ["müssen", "tener que"],
+    "tische": ["der Tisch", "mesas"],
+    "putzen": ["putzen", "limpiar"],
+    "tassen": ["die Tasse", "tazas"],
+    "vorbereiten": ["vorbereiten", "preparar"],
+    "macht": ["machen", "hacer", "preparar"],
+    "den": ["der (acusativo)", "el"],
+    "kaffee": ["der Kaffee", "café"],
+    "kommt": ["kommen", "venir", "llegar"],
+    "erste": ["erste", "primero"],
+    "kunde": ["der Kunde", "cliente"],
+    "er": ["er", "él"],
+    "möchte": ["mögen (möchte)", "querer, desear"],
+    "einen": ["ein (acusativo masculino)", "un"],
+    "großen": ["groß", "grande"],
+    "ein": ["ein", "un"],
+    "brötchen": ["das Brötchen", "panecillo"],
+    "vier": ["vier", "cuatro"],
+    "euro": ["der Euro", "euro"],
+    "fünfzig": ["fünfzig", "cincuenta"],
+    "bitte": ["bitte", "por favor", "de nada"],
+    "kann": ["können", "poder"],
+    "karte": ["die Karte", "tarjeta", "carta"],
+    "bezahlen": ["bezahlen", "pagar"],
+    "natürlich": ["natürlich", "por supuesto"],
+    "gebe": ["geben", "dar"],
+    "ihm": ["er", "le, a él (dativo)"],
+    "sage": ["sagen", "decir"],
+    "schönen": ["schön", "bonito", "buen"],
+    "noch": ["noch", "todavía", "aún"],
+    "cappuccino": ["der Cappuccino", "capuchino"],
+    "beliebter": ["beliebt", "más popular"],
+    "als": ["als", "que (comparativo)", "cuando"],
+    "tee": ["der Tee", "té"],
+    "latte": ["der Latte", "latte"],
+    "macchiato": ["der Macchiato", "macchiato"],
+    "beliebtesten": ["beliebt", "más popular (superlativo)"],
+    "zehn": ["zehn", "diez"],
+    "rufe": ["anrufen", "llamar por teléfono"],
+    "lieferanten": ["der Lieferant", "proveedor (acusativo)"],
+    "an": ["an", "(prefijo de anrufen)", "en, junto a"],
+    "brauchen": ["brauchen", "necesitar"],
+    "mehr": ["viel", "más"],
+    "milch": ["die Milch", "leche"],
+    "weniger": ["wenig", "menos"],
+    "zucker": ["der Zucker", "azúcar"],
+    "lieferant": ["der Lieferant", "proveedor"],
+    "sagt": ["sagen", "decir"],
+    "dass": ["dass", "que (conjunción)"],
+    "denn": ["denn", "porque", "pues"],
+    "nur": ["nur", "solo"],
+    "zwei": ["zwei", "dos"],
+    "liter": ["der Liter", "litro"],
+    "obwohl": ["obwohl", "aunque"],
+    "müde": ["müde", "cansado"],
+    "bin": ["sein", "soy, estoy"],
+    "lächle": ["lächeln", "sonreír"],
+    "immer": ["immer", "siempre"],
+    "kunden": ["der Kunde", "clientes"],
+    "sind": ["sein", "son, están"],
+    "freundlich": ["freundlich", "amable"],
+    "trinkgeld": ["das Trinkgeld", "propina"],
+    "besser": ["gut", "mejor"],
+    "gestern": ["gestern", "ayer"],
+    "zwölf": ["zwölf", "doce"],
+    "mache": ["machen", "hacer"],
+    "pause": ["die Pause", "descanso"],
+    "habe": ["haben", "tengo", "he (auxiliar de Perfekt)"],
+    "salat": ["der Salat", "ensalada"],
+    "gegessen": ["essen", "comido (Partizip II)"],
+    "wasser": ["das Wasser", "agua"],
+    "getrunken": ["trinken", "bebido (Partizip II)"],
+    "hast": ["haben", "tienes", "has (auxiliar de Perfekt)"],
+    "du": ["du", "tú"],
+    "nachricht": ["die Nachricht", "mensaje"],
+    "vom": ["von + dem", "del"],
+    "chef": ["der Chef", "jefe"],
+    "gelesen": ["lesen", "leído (Partizip II)"],
+    "nein": ["nein", "no"],
+    "nicht": ["nicht", "no"],
+    "was": ["was", "qué"],
+    "schreibt": ["schreiben", "escribir"],
+    "nächste": ["nächste", "próxima", "más cercana"],
+    "woche": ["die Woche", "semana"],
+    "eine": ["ein", "una"],
+    "besprechung": ["die Besprechung", "reunión"],
+    "werden": ["werden", "(auxiliar de futuro)", "volverse"],
+    "über": ["über", "sobre", "por encima de"],
+    "neue": ["neu", "nuevo / nuevos / nuevas"],
+    "preise": ["der Preis", "precios"],
+    "sprechen": ["sprechen", "hablar"],
+    "nachmittag": ["der Nachmittag", "tarde"],
+    "ruhiger": ["ruhig", "más tranquilo"],
+    "trotzdem": ["trotzdem", "a pesar de eso", "de todos modos"],
+    "gibt": ["geben", "da (es gibt = hay)"],
+    "kaffeemaschine": ["die Kaffeemaschine", "cafetera"],
+    "reinigen": ["reinigen", "limpiar"],
+    "müssen": ["müssen", "tener que"],
+    "nach": ["nach", "después de", "a (destino)"],
+    "gehe": ["gehen", "ir"],
+    "einkaufen": ["einkaufen", "ir de compras"],
+    "brauche": ["brauchen", "necesitar", "necesito"],
+    "schürze": ["die Schürze", "delantal"],
+    "schwarze": ["schwarz", "negro / negros"],
+    "schuhe": ["der Schuh", "zapatos"],
+    "entschuldigung": ["die Entschuldigung", "disculpe", "perdón"],
+    "kostet": ["kosten", "costar"],
+    "diese": ["dieser", "esta"],
+    "zwanzig": ["zwanzig", "veinte"],
+    "blaue": ["blau", "azul"],
+    "günstiger": ["günstig", "más barato"],
+    "fünfzehn": ["fünfzehn", "quince"],
+    "nehme": ["nehmen", "llevar", "tomar"],
+    "teurer": ["teuer", "más caro"],
+    "bequemer": ["bequem", "más cómodo"],
+    "letzte": ["letzte", "última", "pasada"],
+    "bank": ["die Bank", "banco"],
+    "gegangen": ["gehen", "ido (Partizip II)"],
+    "konto": ["das Konto", "cuenta bancaria"],
+    "für": ["für", "para", "por"],
+    "gehalt": ["das Gehalt", "sueldo"],
+    "eröffnen": ["eröffnen", "abrir (una cuenta)", "inaugurar"],
+    "wollte": ["wollen", "quería"],
+    "tag_": ["der Tag", "día"],
+    "ihren": ["Ihr", "su (formal)"],
+    "ausweis": ["der Ausweis", "documento de identidad"],
+    "dabei": ["dabei", "consigo", "al lado"],
+    "ja": ["ja", "sí"],
+    "hier": ["hier", "aquí"],
+    "frau": ["die Frau", "mujer", "señora"],
+    "mir": ["ich", "me, a mí (dativo)"],
+    "formular": ["das Formular", "formulario"],
+    "gegeben": ["geben", "dado (Partizip II)"],
+    "ausgefüllt": ["ausfüllen", "rellenado (Partizip II)"],
+    "war": ["sein", "era, estaba"],
+    "alles": ["alles", "todo"],
+    "fertig": ["fertig", "listo", "terminado"],
+    "abend": ["der Abend", "tarde-noche", "noche"],
+    "hause": ["das Haus", "casa (nach Hause = a casa)"],
+    "koche": ["kochen", "cocinar"],
+    "nudeln": ["die Nudeln", "pasta, fideos"],
+    "mutter": ["die Mutter", "madre"],
+    "besten": ["gut", "mejor (am besten = lo mejor)"],
+    "gefällt": ["gefallen", "gustar"],
+    "duft": ["der Duft", "aroma"],
+    "von": ["von", "de", "por"],
+    "frischem": ["frisch", "fresco"],
+    "genauso": ["genauso", "igual de"],
+    "interessant": ["interessant", "interesante"],
+    "anstrengend": ["anstrengend", "agotador", "cansado"],
+    "wieder": ["wieder", "otra vez"],
+    "aufstehen": ["aufstehen", "levantarse"],
+    "werde": ["werden", "(auxiliar de futuro)", "voy a"],
+    "samstag": ["der Samstag", "sábado"],
+    "frei": ["frei", "libre"],
+    "dann": ["dann", "entonces", "luego"],
+    "lange": ["lange", "mucho tiempo"],
+    "schlafen": ["schlafen", "dormir"]
+  },
+  "parrafos": [
+    {
+      "de": "Ich heiße Jonas und arbeite in einem Café in Berlin.",
+      "es": "Me llamo Jonas y trabajo en una cafetería en Berlín."
+    },
+    {
+      "de": "Mein Tag beginnt früh, weil das Café um sieben Uhr öffnet.",
+      "es": "Mi día empieza temprano porque la cafetería abre a las siete."
+    },
+    {
+      "de": "Zuerst stehe ich um fünf Uhr auf. Danach fahre ich mit der Straßenbahn zur Arbeit.",
+      "es": "Primero me levanto a las cinco. Después voy al trabajo en tranvía."
+    },
+    {
+      "de": "Am Morgen ist die Straßenbahn sehr voll, aber der Bus ist langsamer.",
+      "es": "Por la mañana el tranvía está muy lleno, pero el autobús es más lento."
+    },
+    {
+      "de": "Im Café begrüße ich meine Kollegin Lena. Sie hat schon die Maschine eingeschaltet.",
+      "es": "En la cafetería saludo a mi compañera Lena. Ella ya ha encendido la máquina."
+    },
+    {
+      "de": "„Guten Morgen, Lena! Wie geht es dir?“",
+      "es": "«¡Buenos días, Lena! ¿Cómo estás?»"
+    },
+    {
+      "de": "„Gut, danke. Heute haben wir viel zu tun.“",
+      "es": "«Bien, gracias. Hoy tenemos mucho que hacer.»"
+    },
+    {
+      "de": "Ich muss die Tische putzen und die Tassen vorbereiten. Lena macht den Kaffee.",
+      "es": "Yo tengo que limpiar las mesas y preparar las tazas. Lena hace el café."
+    },
+    {
+      "de": "Um sieben Uhr kommt der erste Kunde. Er möchte einen großen Kaffee und ein Brötchen.",
+      "es": "A las siete llega el primer cliente. Quiere un café grande y un panecillo."
+    },
+    {
+      "de": "„Das macht vier Euro fünfzig, bitte.“",
+      "es": "«Son cuatro euros cincuenta, por favor.»"
+    },
+    {
+      "de": "„Kann ich mit Karte bezahlen?“ „Natürlich, das geht.“",
+      "es": "«¿Puedo pagar con tarjeta?» «Por supuesto, se puede.»"
+    },
+    {
+      "de": "Ich gebe ihm den Kaffee und sage: „Einen schönen Tag noch!“",
+      "es": "Le doy el café y digo: «¡Que tenga un buen día!»"
+    },
+    {
+      "de": "Der Cappuccino ist beliebter als der Tee. Der Latte macchiato ist am beliebtesten.",
+      "es": "El capuchino es más popular que el té. El latte macchiato es el más popular."
+    },
+    {
+      "de": "Um zehn Uhr rufe ich den Lieferanten an. Wir brauchen mehr Milch und weniger Zucker.",
+      "es": "A las diez llamo al proveedor. Necesitamos más leche y menos azúcar."
+    },
+    {
+      "de": "Der Lieferant sagt, dass die Milch morgen kommt. Das ist gut, denn wir haben nur noch zwei Liter.",
+      "es": "El proveedor dice que la leche llega mañana. Eso está bien, porque solo nos quedan dos litros."
+    },
+    {
+      "de": "Obwohl ich müde bin, lächle ich immer. Die Kunden sind freundlich, und das Trinkgeld ist heute besser als gestern.",
+      "es": "Aunque estoy cansado, siempre sonrío. Los clientes son amables y la propina hoy es mejor que ayer."
+    },
+    {
+      "de": "Um zwölf Uhr mache ich Pause. Ich habe einen Salat gegessen und Wasser getrunken.",
+      "es": "A las doce hago una pausa. He comido una ensalada y he bebido agua."
+    },
+    {
+      "de": "„Hast du die Nachricht vom Chef gelesen?“",
+      "es": "«¿Has leído el mensaje del jefe?»"
+    },
+    {
+      "de": "„Nein, noch nicht. Was schreibt er?“",
+      "es": "«No, todavía no. ¿Qué escribe?»"
+    },
+    {
+      "de": "„Er schreibt, dass wir nächste Woche eine Besprechung haben. Wir werden über neue Preise sprechen.“",
+      "es": "«Escribe que la próxima semana tenemos una reunión. Vamos a hablar de los nuevos precios.»"
+    },
+    {
+      "de": "Am Nachmittag ist das Café ruhiger. Trotzdem gibt es viel Arbeit, weil wir die Kaffeemaschine reinigen müssen.",
+      "es": "Por la tarde la cafetería está más tranquila. Aun así hay mucho trabajo, porque tenemos que limpiar la cafetera."
+    },
+    {
+      "de": "Nach der Arbeit gehe ich einkaufen. Ich brauche eine neue Schürze und schwarze Schuhe.",
+      "es": "Después del trabajo voy de compras. Necesito un delantal nuevo y zapatos negros."
+    },
+    {
+      "de": "„Entschuldigung, wie viel kostet diese Schürze?“",
+      "es": "«Disculpe, ¿cuánto cuesta este delantal?»"
+    },
+    {
+      "de": "„Sie kostet zwanzig Euro. Die blaue ist günstiger, sie kostet fünfzehn Euro.“",
+      "es": "«Cuesta veinte euros. El azul es más barato, cuesta quince euros.»"
+    },
+    {
+      "de": "Ich nehme die blaue Schürze. Die Schuhe sind teurer, aber sie sind bequemer.",
+      "es": "Me llevo el delantal azul. Los zapatos son más caros, pero son más cómodos."
+    },
+    {
+      "de": "Letzte Woche bin ich zur Bank gegangen, weil ich ein Konto für mein Gehalt eröffnen wollte.",
+      "es": "La semana pasada fui al banco porque quería abrir una cuenta para mi sueldo."
+    },
+    {
+      "de": "„Guten Tag, ich möchte ein Konto eröffnen.“",
+      "es": "«Buenos días, quisiera abrir una cuenta.»"
+    },
+    {
+      "de": "„Haben Sie Ihren Ausweis dabei?“ „Ja, hier ist er.“",
+      "es": "«¿Lleva su documento de identidad?» «Sí, aquí está.»"
+    },
+    {
+      "de": "Die Frau hat mir ein Formular gegeben. Ich habe es ausgefüllt, und danach war alles fertig.",
+      "es": "La mujer me dio un formulario. Lo rellené y después todo estaba listo."
+    },
+    {
+      "de": "Am Abend fahre ich nach Hause. Ich koche Nudeln und rufe meine Mutter an.",
+      "es": "Por la tarde-noche vuelvo a casa. Cocino pasta y llamo a mi madre."
+    },
+    {
+      "de": "Am besten gefällt mir der Duft von frischem Kaffee. Meine Arbeit ist genauso interessant wie anstrengend.",
+      "es": "Lo que más me gusta es el aroma del café recién hecho. Mi trabajo es tan interesante como agotador."
+    },
+    {
+      "de": "Morgen werde ich wieder früh aufstehen. Am Samstag habe ich frei, dann werde ich lange schlafen.",
+      "es": "Mañana me levantaré temprano otra vez. El sábado libro, entonces dormiré mucho tiempo."
+    }
+  ]
+}

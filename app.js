@@ -5,7 +5,9 @@ const HISTORIAS = [
   ["Ein kurzer Anruf im Büro", "historia-01.json"],
   ["Eine intensive Woche zwischen Büro, Einkäufen und Terminen","historia-02.json"],
    ["Samstag auf dem Wochenmarkt","historia-03.json"],
-   ["Eine intensive Woche","historia-04.json"]
+   ["Eine intensive Woche","historia-04.json"],
+   ["Ein Tag im Café","historia-05.json"],
+   ["Eine Padelstunde mit Marco","historia-06.json"]
 ];
 
 const PARRAFOS_POR_PAGINA = 4;
